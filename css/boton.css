@@ -1,0 +1,14 @@
+button{
+    width: 60px;
+    background-color:#F8BCF3; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    
+    
+}
