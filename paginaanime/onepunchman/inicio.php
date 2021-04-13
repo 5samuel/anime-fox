@@ -71,7 +71,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">the daily life of the immortal king</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">One Punch Man</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -82,20 +82,18 @@
         <div class="container-fluid"  style="margin: 50px 0;">
             <div class="row">
                 <div class="col-xs-12 col-sm-4 col-md-3" style="width:30%; border-radius: 25px;">
-                    <img src="../../img/2.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px;">
+                    <img src="../../img/onp.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px;">
                     <br>
-                    <div class="estado"><center><h4>Finalizado</h4></center></div> <div>
-                        <a href="#" class="btn" id="reaccion"><i class="fas fa-heart"></i></a>
-                        </div>
+                    <div class="estado"><center><h4>Finalizado</h4></center></div> <div class="imagen"><img src="../../img/megusta.png" alt=""></div>
                 </div>
                 <div class="col-xs-12 col-sm-8 col-md-8 text-justify lead">
                    <h2>sipnosis</h2>
-                    <p>Wang Ling ha desarrollado habilidades increíbles desde una edad temprana. Sin embargo, para llevar una vida ordinaria, decide limitar sus poderes en un talismán. Desafortunadamente, su dulce vida diaria se ve amenazada cuando tiene que participar en una competencia cuando ingresa a la escuela secundaria
+                    <p>La serie está protagonizada por un héroe que ha entrenado tanto que se ha quedado calvo, y tiene tanta fuerza que puede acabar con cualquier enemigo de un solo puñetazo. Sin embargo, al ser tan fuerte, se aburre y se frustra porque no le cuesta nada vencer sus batallas.
 <center>
 <h3>Título original: The Daily Life of the Immortal King (TV Series)</h3>
-<h3>Año:2020</h3>
-<h3>País: China China</h3>
-<h3>Dirección: Zhu BeNing</h3>
+<h3>Año:2018</h3>
+<h3>País:Japon</h3>
+<h3>Dirección: Toei Animation</h3>
 <h3>Fotografía: Animación</h3>
 <h3>Reparto: Animación</h3>
 <h3>Productora: Bilibili</h3>
@@ -119,7 +117,7 @@ width:80% ;
     ">
 <center>
 <a href="1.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3 style="color:black;">the daily life of the immortal king </h3>
+<img src="../../img/onp/c1.png" class="imgc"><h3 style="color:black;">One Punch Man </h3>
 capitulo 1
 </a>
 </center>
@@ -208,7 +206,6 @@ capitulo 12
 capitulo 13
 </a>
 </center>
-<<<<<<< HEAD
 <center>
 <a href="14.php" style="color:black;">
 <img src="../../img/10.jpg" class="imgc"><h3 style="color:black;">the daily life of the immortal king </h3>
@@ -221,8 +218,6 @@ capitulo 14
 capitulo 15
 </a>
 </center>
-=======
->>>>>>> 7bbc84b3e8a2c7fed8e392c3fddd762e7434d6f8
 </div>
 
 </center>

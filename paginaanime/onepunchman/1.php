@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<<<<<<< HEAD
-    <title>Mortal King</title>
-=======
-    <title>Peliculas</title>
->>>>>>> 7bbc84b3e8a2c7fed8e392c3fddd762e7434d6f8
+    <title>One Punch Man</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -90,7 +86,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">mortal capitulo 3</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">One Punch Man Episodio 1</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -105,17 +101,12 @@
 
 <div class="contenedor" style="height:200%;">
 
-<<<<<<< HEAD
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://www.dailymotion.com/embed/video/k5Acgh3EbYuEDCvLOiy?api=postMessage&id=tamamo_player&origin=https%3A%2F%2Fwww.mundodonghua.com&queue-autoplay-next=false&queue-enable=false&sharing-enable=false&ui-logo=false&ui-start-screen-info=false" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
-=======
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#dW15QlpIVGkzNHZPOCtpbDdIWmtkaC8rc0p1U0FBWmZsUTVGakY3OVNOWHV6YnJOS08vZ0xkamEzaE1WZlcwZXQvQ29hc3lrOXB6SHFhbS80eGV2b0dobUJ4aE9BdEdmVDd2YUlHNG05N0lpQjg5ZXVnaVppY2N4R1RsaU80c1gzU3RwaXM0TUdPSnRmbHQvQmUzU1F3PT0" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
->>>>>>> 7bbc84b3e8a2c7fed8e392c3fddd762e7434d6f8
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#MVNrU0oyZVgvL3U4eHdUS2ZBeTVuQy9DcUszVjBaYW1ZMk1vNnJ4OGJQVTB0WFFTRnNhWHlnckxsaWo3WGZHdXpraHppU1hyY3ZSVUlDbG9CVzBoRnlDOXdXRHFVNURNU1dKREtTSTlwVXpwWTFRZitiRGNhbGgzT0VOZFpnVDI=" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 <br>
 
 </div>
 <br>
-<a href="2.php"><button style="float-right:30px;">Anterior</button></a>
-<a href="4.php"><button style="float-right:30px;">Siguiente</button></a>
+<a href="2.php"><button style="float-right:30px;">Siguiente</button></a>
 <a href="inicio.php"><button style="float-right:30px;">capitulos</button></a>
 
 <br>
@@ -127,13 +118,13 @@
             <div class="footer-copyright full-reset all-tittles">Comentario.</div>
         </footer>
       
-        
+        <center>
         
         <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v10.0" nonce="jPdBhHZW"></script>
 
 <div class="fb-comments" data-href="http://localhost/samuel/trabajo/peliculas/inicio.php" data-width="" data-numposts="100"></div>
-
+</center>
     </div>
 </body>
 </html>

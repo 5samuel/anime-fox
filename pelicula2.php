@@ -1,28 +1,27 @@
+<!--// Chiphysi programación suscribete -->
+<!--// V 0.1 original -->
+<!--// Autor: Chiphysi  --><!--// Autor: Jhonatan Cardona  -->
+<!--// Derechos de autor(Suscribete)  -->
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<<<<<<< HEAD
-    <title>Mortal King</title>
-=======
     <title>Peliculas</title>
->>>>>>> 7bbc84b3e8a2c7fed8e392c3fddd762e7434d6f8
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
     <script src="js/sweet-alert.min.js"></script>
-    <link rel="stylesheet" href="../../css/boton.css">
-    <link rel="stylesheet" href="../../css/sweet-alert.css">
-    <link rel="stylesheet" href="../../css/material-design-iconic-font.min.css">
-    <link rel="stylesheet" href="../../css/normalize.css">
-    <link rel="stylesheet" href="../../css/bootstrap.min.css">
-    <link rel="stylesheet" href="../../css/jquery.mCustomScrollbar.css">
-    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="css/sweet-alert.css">
+    <link rel="stylesheet" href="css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.css">
+    <link rel="stylesheet" href="css/style.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/jquery-1.11.2.min.js"><\/script>')</script>
-    <script src="../../js/modernizr.js"></script>
-    <script src="../../js/bootstrap.min.js"></script>
-    <script src="../../js/jquery.mCustomScrollbar.concat.min.js"></script>
-    <script src="../../js/main.js"></script>
+    <script src="js/modernizr.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="js/main.js"></script>
 </head>
 
 
@@ -61,11 +60,11 @@
             </div>
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
-                    <li><a href="../../inicio.php"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
+                    <li><a href="esperainicio.php"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
                     <li>
                         <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Peliculas <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
                         <ul class="list-unstyled">
-                            <li><a href="esperaacción.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Acción</a></li>
+                             <li><a href="esperaacción.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Acción</a></li>
                             <li><a href="esperacienciaficción.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Ciencia ficción </a></li>
                             <li><a href="esperacomedia.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Comedia </a></li>
                             <li><a href="esperafantasía.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Fantasía</a></li>
@@ -86,11 +85,11 @@
     </div>
     <div class="content-page-container full-reset custom-scroll-containers">
 
-    	 <div class="footer-copyright full-reset all-tittles">Mundo del anime</div>
+    	 <div class="footer-copyright full-reset all-tittles">Chiphysi Peliculas</div>
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">mortal capitulo 3</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">El Ultimo Caballero</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -98,42 +97,28 @@
 
             </ul>
         </div>
-        <div class="container-fluid" >
+        <div class="container-fluid">
 
-<div class="container-flat-form" style="height:200%;">
+<div class="container-flat-form">
 <br>
 
-<div class="contenedor" style="height:200%;">
 
-<<<<<<< HEAD
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://www.dailymotion.com/embed/video/k5Acgh3EbYuEDCvLOiy?api=postMessage&id=tamamo_player&origin=https%3A%2F%2Fwww.mundodonghua.com&queue-autoplay-next=false&queue-enable=false&sharing-enable=false&ui-logo=false&ui-start-screen-info=false" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
-=======
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#dW15QlpIVGkzNHZPOCtpbDdIWmtkaC8rc0p1U0FBWmZsUTVGakY3OVNOWHV6YnJOS08vZ0xkamEzaE1WZlcwZXQvQ29hc3lrOXB6SHFhbS80eGV2b0dobUJ4aE9BdEdmVDd2YUlHNG05N0lpQjg5ZXVnaVppY2N4R1RsaU80c1gzU3RwaXM0TUdPSnRmbHQvQmUzU1F3PT0" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
->>>>>>> 7bbc84b3e8a2c7fed8e392c3fddd762e7434d6f8
-<br>
+<div class="contenedor">
+
+<div style="position:relative;height:0;padding-bottom:56.26%"><iframe src="https://www.youtube.com/embed/piuE919Cyl0?ecver=2" style="position:absolute;width:97%;height:100%;left:0" width="500" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 </div>
-<br>
-<a href="2.php"><button style="float-right:30px;">Anterior</button></a>
-<a href="4.php"><button style="float-right:30px;">Siguiente</button></a>
-<a href="inicio.php"><button style="float-right:30px;">capitulos</button></a>
 
-<br>
+
+
+
 </div>
 
         </div>
         <footer class="footer full-reset">
 
-            <div class="footer-copyright full-reset all-tittles">Comentario.</div>
+            <div class="footer-copyright full-reset all-tittles">Chiphysi Peliculas</div>
         </footer>
-      
-        
-        
-        <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v10.0" nonce="jPdBhHZW"></script>
-
-<div class="fb-comments" data-href="http://localhost/samuel/trabajo/peliculas/inicio.php" data-width="" data-numposts="100"></div>
-
     </div>
 </body>
 </html>
