@@ -101,7 +101,11 @@
 
 <div class="contenedor" style="height:200%;">
 
+<<<<<<< HEAD
 <div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://www.dailymotion.com/embed/video/k1dkKzymFomUdCvSx8E?api=postMessage&id=tamamo_player&origin=https%3A%2F%2Fwww.mundodonghua.com&queue-autoplay-next=false&queue-enable=false&sharing-enable=false&ui-logo=false&ui-start-screen-info=false" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+=======
+<div style="position:relative;height:0;padding-bottom:56.6%"><video src="../../anime/mortal/7.mp4" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+>>>>>>> 7bbc84b3e8a2c7fed8e392c3fddd762e7434d6f8
 <br>
 
 </div>

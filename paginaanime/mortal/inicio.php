@@ -206,6 +206,7 @@ capitulo 12
 capitulo 13
 </a>
 </center>
+<<<<<<< HEAD
 <center>
 <a href="14.php" style="color:black;">
 <img src="../../img/10.jpg" class="imgc"><h3 style="color:black;">the daily life of the immortal king </h3>
@@ -218,6 +219,8 @@ capitulo 14
 capitulo 15
 </a>
 </center>
+=======
+>>>>>>> 7bbc84b3e8a2c7fed8e392c3fddd762e7434d6f8
 </div>
 
 </center>
