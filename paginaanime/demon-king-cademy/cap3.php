@@ -7,6 +7,7 @@
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
     <script src="js/sweet-alert.min.js"></script>
     <link rel="stylesheet" href="../../css/sweet-alert.css">
+    <link rel="stylesheet" href="../../css/boton2.css">
     <link rel="stylesheet" href="../../css/material-design-iconic-font.min.css">
     <link rel="stylesheet" href="../../css/normalize.css">
     <link rel="stylesheet" href="../../css/bootstrap.min.css">
@@ -76,7 +77,7 @@
     </div>
     <div class="content-page-container full-reset custom-scroll-containers">
 
-    	 <div class="footer-copyright full-reset all-tittles">Chiphysi Peliculas</div>
+    	 <div class="footer-copyright full-reset all-tittles">Anime fox</div>
 
         <div class="container">
             <div class="page-header">

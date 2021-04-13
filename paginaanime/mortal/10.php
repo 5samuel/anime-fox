@@ -87,10 +87,14 @@
         <div class="container">
             <div class="page-header">
 <<<<<<< HEAD
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">Mortal capitulo 6</font></center></h1>
+=======
+<<<<<<< HEAD
               <h1 class="all-tittles"><center><font size="10" face="Algerian">Mortal capitulo 10</font></center></h1>
 =======
               <h1 class="all-tittles"><center><font size="10" face="Algerian">Morlat capitulo 6</font></center></h1>
 >>>>>>> 7bbc84b3e8a2c7fed8e392c3fddd762e7434d6f8
+>>>>>>> 85648cf1bddc980fab3f191128104670ceb93600
             </div>
         </div>
         <div class="container-fluid">

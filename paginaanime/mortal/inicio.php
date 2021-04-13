@@ -84,7 +84,9 @@
                 <div class="col-xs-12 col-sm-4 col-md-3" style="width:30%; border-radius: 25px;">
                     <img src="../../img/2.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px;">
                     <br>
-                    <div class="estado"><center><h4>Finalizado</h4></center></div> <div class="imagen"><img src="../../img/megusta.png" alt=""></div>
+                    <div class="estado"><center><h4>Finalizado</h4></center></div> <div>
+                        <a href="#" class="btn" id="reaccion"><i class="fas fa-heart"></i></a>
+                        </div>
                 </div>
                 <div class="col-xs-12 col-sm-8 col-md-8 text-justify lead">
                    <h2>sipnosis</h2>

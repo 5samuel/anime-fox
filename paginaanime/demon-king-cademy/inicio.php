@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<title>Peliculas</title>
+<title>Demon king Academy</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -37,7 +37,7 @@
                 <figure>
                     <img src="assets/img/logoo.png" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
                 </figure>
-                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">Peliculas</font></p>
+                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">Anime fox</font></p>
             </div>
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
@@ -49,8 +49,8 @@
                             <li><a href="../no-game-no-life/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; No game no life </a></li>
                             <li><a href="../smarfon/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Isekai smarphone </a></li>
                             <li><a href="../Horimiya/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Horimiya</a></li>
-                            <li><a href="esperamelodrama.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Melodrama</a></li>
-                            <li><a href="esperamusical.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Musical</a></li>
+                            <li><a href="../onepunchman/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Melodrama</a></li>
+                            <li><a href="esperamusical.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; One punch man</a></li>
                             <li><a href="esperaromance.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Romance</a></li>
                             <li><a href="esperasuspense.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Suspense</a></li>
                             <li><a href="esperaterror.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Terror </a></li>
@@ -105,14 +105,9 @@
 <div class="container-flat-form">
 <center>
 <a href="cap1.php" style="color:black;">
-<<<<<<< HEAD
-<img src="https://cdn.animeflv.net/screenshots/3321/13/th_3.jpg" class= "imgc" style="width: 100px;
-    height: 60px;
-    position: absolute;
-     left: 30px;" ><h3>Demon king academy</h3>
-=======
+
 <img src="https://cdn.animeflv.net/screenshots/3321/13/th_3.jpg" class= "imgc"  ><h3>Demon king academy</h3>
->>>>>>> 7bbc84b3e8a2c7fed8e392c3fddd762e7434d6f8
+
 capitulo 1
 </a>
 </center>
