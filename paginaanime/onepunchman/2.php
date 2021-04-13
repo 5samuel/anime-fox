@@ -51,7 +51,7 @@
         	<br>
             <div class="full-reset" style="background-color:#2B3D51; padding: 10px 0; color:#fff;">
                 <figure>
-                    <img src="assets/img/logoo.png" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
+                    <img src="../../img/logo.jpg" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
                 </figure>
                 <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">Peliculas</font></p>
             </div>

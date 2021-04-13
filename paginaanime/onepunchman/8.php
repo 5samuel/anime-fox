@@ -51,7 +51,7 @@
         	<br>
             <div class="full-reset" style="background-color:#2B3D51; padding: 10px 0; color:#fff;">
                 <figure>
-                    <img src="assets/img/logoo.png" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
+                    <img src="../../img/logo.jpg" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
                 </figure>
                 <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">Peliculas</font></p>
             </div>
@@ -101,7 +101,7 @@
 
 <div class="contenedor" style="height:200%;">
 
-<div style="position:relative;height:0;padding-bottom:56.6%"><video src="../../anime/mortal/8.mp4" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#L3pIWDh0K2gyRkFlc0p4cUI3dVNaRmora1k5c1c4OVk5VXdNVng5NkRTalFtTE5TeC9IZklRTVlwSVY4a1FrZHVwZEJSU3NHWi9TVlZNWjFORlJ2NHpCRG9USHd2OFRPS0ptUVdmVlZkNEZzcnRZYXVUZ01lVTRpVjZhRzI2TlU=" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 <br>
 
 </div>
@@ -114,6 +114,7 @@
 </div>
 
         </div>
+        
         <footer class="footer full-reset">
 
             <div class="footer-copyright full-reset all-tittles">Comentario.</div>

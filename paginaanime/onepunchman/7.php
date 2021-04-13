@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Peliculas</title>
+    <title>One Punch Man</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -51,7 +51,7 @@
         	<br>
             <div class="full-reset" style="background-color:#2B3D51; padding: 10px 0; color:#fff;">
                 <figure>
-                    <img src="assets/img/logoo.png" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
+                    <img src="../../img/logo.jpg" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
                 </figure>
                 <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">Peliculas</font></p>
             </div>
@@ -86,7 +86,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">Morlat capitulo 7</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">One Punch Man Episodio 7</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -101,7 +101,7 @@
 
 <div class="contenedor" style="height:200%;">
 
-<div style="position:relative;height:0;padding-bottom:56.6%"><video src="../../anime/mortal/7.mp4" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#bFNnWEVXRS80NTlxdDhNVlpWK0NEb2FsTFRVczRhYmdGdHdrRUJXejl0N1JBd0FtNWRJUUdTOTExeGZDejR4QVd6OHRiNllzNWt2NmJQUTVQVlErR2xubE5rRlhWaVB3ZjVGc0xjTE5IK3hVOUlkVERJWE82UGpBNjd3N2FjcWM=" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 <br>
 
 </div>

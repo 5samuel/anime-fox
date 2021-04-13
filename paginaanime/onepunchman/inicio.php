@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<title>Peliculas</title>
+<title>One Punch Man</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -36,9 +36,9 @@
         	<br>
             <div class="full-reset" style="background-color:#2B3D51; padding: 10px 0; color:#fff;">
                 <figure>
-                    <img src="assets/img/logoo.png" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
+                    <img src="../../img/logo.jpg" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
                 </figure>
-                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">the daily life of the immortal king</font></p>
+                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">One Punch Man</font></p>
             </div>
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
@@ -46,7 +46,7 @@
                     <li>
                         <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Animes <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
                         <ul class="list-unstyled">
-                           <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Demon King academy</a></li>
+                           <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; One Punch Man</a></li>
                             <li><a href=""><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Ciencia ficción </a></li>
                             <li><a href="esperacomedia.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Comedia </a></li>
                             <li><a href="esperafantasía.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Fantasía</a></li>
@@ -57,7 +57,7 @@
                             <li><a href="esperaterror.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Terror </a></li>
                         </ul>
                     </li>
-                    	 <li><a href="espera.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Nuevas Peliculas</a></li>
+                    	
 
                     	 <li><a href="desconectar.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Cerrar</a></li>
                     </li>
@@ -90,7 +90,7 @@
                    <h2>sipnosis</h2>
                     <p>La serie está protagonizada por un héroe que ha entrenado tanto que se ha quedado calvo, y tiene tanta fuerza que puede acabar con cualquier enemigo de un solo puñetazo. Sin embargo, al ser tan fuerte, se aburre y se frustra porque no le cuesta nada vencer sus batallas.
 <center>
-<h3>Título original: The Daily Life of the Immortal King (TV Series)</h3>
+<h3>Título original: One Punch Man</h3>
 <h3>Año:2018</h3>
 <h3>País:Japon</h3>
 <h3>Dirección: Toei Animation</h3>
@@ -124,7 +124,7 @@ capitulo 1
 <br>
 <center>
 <a href="2.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3>the daily life of the immortal king </h3>
+<img src="../../img/onp/c2.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 2
 </a>
 </center>
@@ -132,92 +132,74 @@ capitulo 2
 <br>
 <center>
 <a href="3.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3>the daily life of the immortal king </h3>
+<img src="../../img/onp/c3.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 3
 </a>
 </center>
 <br>
 <center>
 <a href="4.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3>the daily life of the immortal king </h3>
+<img src="../../img/onp/c4.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 4
 </a>
 </center>
 <br>
 <center>
 <a href="5.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3>the daily life of the immortal king </h3>
+<img src="../../img/onp/c5.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 5
 </a>
 </center>
 <br>
 <center>
 <a href="6.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3>the daily life of the immortal king </h3>
+<img src="../../img/onp/c6.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 6
 </a>
 </center>
 <br>
 <center>
 <a href="7.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3>the daily life of the immortal king </h3>
+<img src="../../img/onp/c7.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 7
 </a>
 </center>
 <br>
 <center>
 <a href="8.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3>the daily life of the immortal king </h3>
+<img src="../../img/onp/c8.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 8
 </a>
 </center>
 <br>
 <center>
 <a href="9.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3>the daily life of the immortal king </h3>
+<img src="../../img/onp/c9.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 9
 </a>
 </center>
 <br>
 <center>
 <a href="10.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3>the daily life of the immortal king </h3>
+<img src="../../img/onp/c10.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 10
 </a>
 </center>
 <br>
 <center>
 <a href="11.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3>the daily life of the immortal king </h3>
+<img src="../../img/onp/c11.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 11
 </a>
 </center>
 <br>
 <center>
 <a href="12.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3>the daily life of the immortal king </h3>
+<img src="../../img/onp/c12.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 12
 </a>
 </center>
-<br>
-<center>
-<a href="13.php" style="color:black;" >
-<img src="../../img/10.jpg" class="imgc"><h3>the daily life of the immortal king </h3>
-capitulo 13
-</a>
-</center>
-<center>
-<a href="14.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3 style="color:black;">the daily life of the immortal king </h3>
-capitulo 14
-</a>
-</center>
-<center>
-<a href="15.php" style="color:black;">
-<img src="../../img/10.jpg" class="imgc"><h3 style="color:black;">the daily life of the immortal king </h3>
-capitulo 15
-</a>
-</center>
+
 </div>
 
 </center>
