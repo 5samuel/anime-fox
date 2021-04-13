@@ -117,14 +117,14 @@ width:80% ;
     ">
 <center>
 <a href="1.php" style="color:black;">
-<img src="../../img/onp/c1.png" class="imgc"><h3 style="color:black;">One Punch Man </h3>
+<img src="../../img/onp2/c1.png" class="imgc"><h3 style="color:black;">One Punch Man </h3>
 capitulo 1
 </a>
 </center>
 <br>
 <center>
 <a href="2.php" style="color:black;">
-<img src="../../img/onp/c2.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/onp2/c2.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 2
 </a>
 </center>
@@ -132,70 +132,70 @@ capitulo 2
 <br>
 <center>
 <a href="3.php" style="color:black;">
-<img src="../../img/onp/c3.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/onp2/c3.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 3
 </a>
 </center>
 <br>
 <center>
 <a href="4.php" style="color:black;">
-<img src="../../img/onp/c4.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/onp2/c4.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 4
 </a>
 </center>
 <br>
 <center>
 <a href="5.php" style="color:black;">
-<img src="../../img/onp/c5.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/onp2/c5.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 5
 </a>
 </center>
 <br>
 <center>
 <a href="6.php" style="color:black;">
-<img src="../../img/onp/c6.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/onp2/c6.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 6
 </a>
 </center>
 <br>
 <center>
 <a href="7.php" style="color:black;">
-<img src="../../img/onp/c7.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/onp2/c7.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 7
 </a>
 </center>
 <br>
 <center>
 <a href="8.php" style="color:black;">
-<img src="../../img/onp/c8.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/onp2/c8.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 8
 </a>
 </center>
 <br>
 <center>
 <a href="9.php" style="color:black;">
-<img src="../../img/onp/c9.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/onp2/c9.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 9
 </a>
 </center>
 <br>
 <center>
 <a href="10.php" style="color:black;">
-<img src="../../img/onp/c10.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/onp2/c10.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 10
 </a>
 </center>
 <br>
 <center>
 <a href="11.php" style="color:black;">
-<img src="../../img/onp/c11.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/onp2/c11.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 11
 </a>
 </center>
 <br>
 <center>
 <a href="12.php" style="color:black;">
-<img src="../../img/onp/c12.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/onp2/c12.png" class="imgc"><h3>One Punch Man </h3>
 capitulo 12
 </a>
 </center>
