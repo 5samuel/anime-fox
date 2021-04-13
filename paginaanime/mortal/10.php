@@ -86,7 +86,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">Morlat capitulo 6</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">Mortal capitulo 6</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
