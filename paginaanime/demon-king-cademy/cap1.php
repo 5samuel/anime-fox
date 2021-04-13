@@ -83,7 +83,7 @@
     </div>
     <div class="content-page-container full-reset custom-scroll-containers">
 
-    	 <div class="footer-copyright full-reset all-tittles">Mundo del anime</div>
+    	 <div class="footer-copyright full-reset all-tittles">Anime fox</div>
 
         <div class="container">
             <div class="page-header">
@@ -106,7 +106,7 @@
 <br>
 
 </div>
-<a href="cap2.php" style="color:black;"><button style="float-right:30px;">Siguiente >></button></a>
+<a href="cap2.php" stylAnime fox"><button style="float-right:30px;">Siguiente >></button></a>
 
 <br>
 </div>
