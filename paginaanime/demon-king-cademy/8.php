@@ -75,7 +75,7 @@
             </div>
         </div>
     </div>
-    <div class="content-page-container full-reset custom-scroll-containers">
+    <div class="content-page-container full-reset custom-scroll-containers" >
 
     	 <div class="footer-copyright full-reset all-tittles">Chiphysi Peliculas</div>
 
