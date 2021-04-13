@@ -105,10 +105,7 @@
 <div class="container-flat-form">
 <center>
 <a href="cap1.php" style="color:black;">
-<img src="https://cdn.animeflv.net/screenshots/3321/13/th_3.jpg" class= "imgc" style="width: 100px;
-    height: 60px;
-    position: absolute;
-     left: 30px;" ><h3>Demon king academy</h3>
+<img src="https://cdn.animeflv.net/screenshots/3321/13/th_3.jpg" class= "imgc"  ><h3>Demon king academy</h3>
 capitulo 1
 </a>
 </center>
