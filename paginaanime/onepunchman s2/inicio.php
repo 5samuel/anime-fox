@@ -82,7 +82,7 @@
         <div class="container-fluid"  style="margin: 50px 0;">
             <div class="row">
                 <div class="col-xs-12 col-sm-4 col-md-3" style="width:30%; border-radius: 25px;">
-                    <img src="../../img/onp.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px;">
+                    <img src="../../img/onp2.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px;">
                     <br>
                     <div class="estado"><center><h4>Finalizado</h4></center></div> <div class="imagen"><img src="../../img/megusta.png" alt=""></div>
                 </div>
@@ -90,8 +90,8 @@
                    <h2>sipnosis</h2>
                     <p>La serie está protagonizada por un héroe que ha entrenado tanto que se ha quedado calvo, y tiene tanta fuerza que puede acabar con cualquier enemigo de un solo puñetazo. Sin embargo, al ser tan fuerte, se aburre y se frustra porque no le cuesta nada vencer sus batallas.
 <center>
-<h3>Título original: One Punch Man</h3>
-<h3>Año:2015</h3>
+<h3>Título original: One Punch Man 2da temporada</h3>
+<h3>Año:2018</h3>
 <h3>País:Japon</h3>
 <h3>Dirección: Toei Animation</h3>
 <h3>Fotografía: Animación</h3>
