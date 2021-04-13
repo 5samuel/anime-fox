@@ -1,4 +1,5 @@
 button {
+  width: 90px;
     color: white;
     border: #000;
     border-radius: 5px;
@@ -45,6 +46,23 @@ button {
   button.gray {
     background: #858585;
   }
-  a{
+  a>button{
       color:black;
       }
+      iframe{
+        border-radius: 5px;
+      }
+
+      .btn{
+        display: inline-block;
+        text-decoration: none;
+        color: #fff;
+        font-size: 25px;
+        border: solid .1px rgba(255, 255, 255, 0.418);
+        padding: 1px;
+        border-radius: 25px;
+        
+    }
+    .btn:hover{
+        background: #964384dc;
+    }
