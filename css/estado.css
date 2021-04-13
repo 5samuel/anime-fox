@@ -1,0 +1,67 @@
+.estado{
+
+    width: 190px;
+    height: 55px;
+    border-radius: 20px;
+    background-color: red;
+    box-shadow: 0px 0px 5px blue;
+    cursor:pointer;
+    position: absolute;
+    left: 55px;
+
+    }
+    .estado>center>h4{
+        font-size: 35px;
+        font-family: Cavolini;
+        color: steelblue;
+        position: relative;
+        
+    }
+.imagen>img{
+    width: 60px;
+    position: absolute;
+    left: 250px;
+    
+}
+.imagen{
+    cursor: pointer;
+}
+.capitulo{
+    width: 190px;
+    height: 55px;   
+    cursor: pointer;
+}
+.imgc{
+    width: 100px;
+    height: 60px;
+    position: absolute;
+     left: 30px;
+    
+   
+    
+    
+}
+iframe{
+    border-radius: 10px;
+}
+.sip{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    position: absolute;
+    left: 200px;
+}
+.cl{
+    
+        font-size: 20px;
+        height: 20px;
+        line-height: 20px;
+        color: #00bcf2;
+        position: absolute;
+        left: 20px;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+       
+    
+}
