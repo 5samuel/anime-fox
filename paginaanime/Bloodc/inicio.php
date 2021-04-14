@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<title>One Punch Man</title>
+<title>Blood-C</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -71,7 +71,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">One Punch Man</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">Blood-C</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -82,18 +82,18 @@
         <div class="container-fluid"  style="margin: 50px 0;">
             <div class="row">
                 <div class="col-xs-12 col-sm-4 col-md-3" style="width:30%; border-radius: 25px;">
-                    <img src="../../img/onp2.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px;">
+                    <img src="../../img/bc.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px;">
                     <br>
                     <div class="estado"><center><h4>Finalizado</h4></center></div> <div class="imagen"><img src="../../img/megusta.png" alt=""></div>
                 </div>
                 <div class="col-xs-12 col-sm-8 col-md-8 text-justify lead">
                    <h2>sipnosis</h2>
-                    <p>La serie está protagonizada por un héroe que ha entrenado tanto que se ha quedado calvo, y tiene tanta fuerza que puede acabar con cualquier enemigo de un solo puñetazo. Sin embargo, al ser tan fuerte, se aburre y se frustra porque no le cuesta nada vencer sus batallas.
+                    <p>La historia sigue a Saya Kisaragi como alumna de segundo curso del Instituto Privado Sanabara, donde lleva una vida normal y difruta de su diario vivir.Sin embargo,su padre le encomienda la misión como heredera del templo Ukishima de acabar con los "furukimonos"(Ancianos) usando la espada Mikami(Espada de los dioses) para preservar la paz en su instituto y proteger a la ciudad del peligro de estos seres.A lo largo de sus encuentros con estos seres, descubrirá variados secretos que hará cuestionarse lo enigmáticos que son hasta encontrar alguna verdad,pero...el destino le aguardará muchas sorpresas a Saya.
 <center>
-<h3>Título original: One Punch Man 2da temporada</h3>
-<h3>Año:2018</h3>
+<h3>Título original: Blood-C</h3>
+<h3>Año:2011</h3>
 <h3>País:Japon</h3>
-<h3>Dirección: Toei Animation</h3>
+<h3>Dirección: Witz studio</h3>
 <h3>Fotografía: Animación</h3>
 <h3>Reparto: Animación</h3>
 <h3>Productora: Bilibili</h3>
@@ -117,14 +117,14 @@ width:80% ;
     ">
 <center>
 <a href="1.php" style="color:black;">
-<img src="../../img/onp2/c1.png" class="imgc" ><h3 style="color:black;">One Punch Man </h3>
+<img src="../../img/bc/1.png" class="imgc" ><h3 style="color:black;">Blood-C </h3>
 capitulo 1
 </a>
 </center>
 <br>
 <center>
 <a href="2.php" style="color:black;">
-<img src="../../img/onp2/c2.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/bc/2.png" class="imgc"><h3>Blood-C </h3>
 capitulo 2
 </a>
 </center>
@@ -132,70 +132,70 @@ capitulo 2
 <br>
 <center>
 <a href="3.php" style="color:black;">
-<img src="../../img/onp2/c3.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/bc/3.png" class="imgc"><h3>Blood-C </h3>
 capitulo 3
 </a>
 </center>
 <br>
 <center>
 <a href="4.php" style="color:black;">
-<img src="../../img/onp2/c4.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/bc/4.png" class="imgc"><h3>Blood-C </h3>
 capitulo 4
 </a>
 </center>
 <br>
 <center>
 <a href="5.php" style="color:black;">
-<img src="../../img/onp2/c5.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/bc/5.png" class="imgc"><h3>Blood-C </h3>
 capitulo 5
 </a>
 </center>
 <br>
 <center>
 <a href="6.php" style="color:black;">
-<img src="../../img/onp2/c6.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/bc/6.png" class="imgc"><h3>Blood-C </h3>
 capitulo 6
 </a>
 </center>
 <br>
 <center>
 <a href="7.php" style="color:black;">
-<img src="../../img/onp2/c7.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/bc/7.png" class="imgc"><h3>Blood-C </h3>
 capitulo 7
 </a>
 </center>
 <br>
 <center>
 <a href="8.php" style="color:black;">
-<img src="../../img/onp2/c8.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/bc/8.png" class="imgc"><h3>Blood-C </h3>
 capitulo 8
 </a>
 </center>
 <br>
 <center>
 <a href="9.php" style="color:black;">
-<img src="../../img/onp2/c9.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/bc/9.png" class="imgc"><h3>Blood-C </h3>
 capitulo 9
 </a>
 </center>
 <br>
 <center>
 <a href="10.php" style="color:black;">
-<img src="../../img/onp2/c10.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/bc/10.png" class="imgc"><h3>Blood-C </h3>
 capitulo 10
 </a>
 </center>
 <br>
 <center>
 <a href="11.php" style="color:black;">
-<img src="../../img/onp2/c11.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/bc/11.png" class="imgc"><h3>Blood-C </h3>
 capitulo 11
 </a>
 </center>
 <br>
 <center>
 <a href="12.php" style="color:black;">
-<img src="../../img/onp2/c12.png" class="imgc"><h3>One Punch Man </h3>
+<img src="../../img/bc/12.png" class="imgc"><h3>Blood-C </h3>
 capitulo 12
 </a>
 </center>
