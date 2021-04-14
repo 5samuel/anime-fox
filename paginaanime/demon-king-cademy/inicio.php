@@ -70,7 +70,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">Animes corto</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">Demon King Academy </font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
