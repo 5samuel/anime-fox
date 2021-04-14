@@ -102,16 +102,7 @@ span.label-mhover{
     padding: 0 15px;
     margin: 0;
 }
-.navbar-user-top > ul > li{
-    display: inline-block;
-    float: right;
-    color: rgba(255,255,255,.4);
-    height: 55px;
-    margin: 0 12px;
-    text-align: center;
-    cursor: pointer;
-    line-height: 55px;
-}
+
 .navbar-user-top > ul > li:hover{
   color: #FFD559;  
 }
