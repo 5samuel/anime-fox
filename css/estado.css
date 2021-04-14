@@ -10,12 +10,14 @@
     color:black;
     font-size: 95;
 }
+/*imagen del megusta*/
 
 .imagen>img{
     width: 60px;
     position: absolute;
     left: 210px;
 }
+/*imagenes de los capitulos*/
 .imgc{
     width: 100px;
     position: absolute;
