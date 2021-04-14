@@ -1,27 +1,24 @@
-<!--// Chiphysi programación suscribete -->
-<!--// V 0.1 original -->
-<!--// Autor: Chiphysi  --><!--// Autor: Jhonatan Cardona  -->
-<!--// Derechos de autor(Suscribete)  -->
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Peliculas</title>
+    <title>Blood C</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
     <script src="js/sweet-alert.min.js"></script>
-    <link rel="stylesheet" href="css/sweet-alert.css">
-    <link rel="stylesheet" href="css/material-design-iconic-font.min.css">
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../../css/boton.css">
+    <link rel="stylesheet" href="../../css/sweet-alert.css">
+    <link rel="stylesheet" href="../../css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="../../css/normalize.css">
+    <link rel="stylesheet" href="../../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../css/jquery.mCustomScrollbar.css">
+    <link rel="stylesheet" href="../../css/style.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/jquery-1.11.2.min.js"><\/script>')</script>
-    <script src="js/modernizr.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-    <script src="js/main.js"></script>
+    <script src="../../js/modernizr.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="../../js/main.js"></script>
 </head>
 
 
@@ -54,13 +51,13 @@
         	<br>
             <div class="full-reset" style="background-color:#2B3D51; padding: 10px 0; color:#fff;">
                 <figure>
-                    <img src="assets/img/logoo.png" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
+                    <img src="../../img/logo.jpg" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
                 </figure>
                 <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">Peliculas</font></p>
             </div>
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
-                    <li><a href="esperainicio.php"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
+                    <li><a href="../../inicio.php"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
                     <li>
                         <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Peliculas <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
                         <ul class="list-unstyled">
@@ -85,11 +82,11 @@
     </div>
     <div class="content-page-container full-reset custom-scroll-containers">
 
-    	 <div class="footer-copyright full-reset all-tittles">Chiphysi Peliculas</div>
+    	 <div class="footer-copyright full-reset all-tittles">Mundo del anime</div>
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">cienciaficcion</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">Blood-C Episodio 3</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -97,30 +94,37 @@
 
             </ul>
         </div>
-        <div class="container-fluid">
+        <div class="container-fluid" >
 
-<div class="container-flat-form">
+<div class="container-flat-form" style="height:200%;">
 <br>
 
-<div class="contenedor">
+<div class="contenedor" style="height:200%;">
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#YnRVUE5lU21ub3d0Y0UwdTZkZWVEY1hWdkFxeVFpZS9NWGRNclA4bHRMeDZoeTN4SUJ4cjBqdzk5NS8yQnR1Nzl0eCtkU0QrNjlqVTlWK2RwMkpXLzlCOVRVdnV2VjNWcDduckV4ZmZ0bHc9" controls style="position:absolute;width:97%;height:100%;left:0" width="560" height="315" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+<br>
 
 </div>
-
+<br>
+<a href="2.php"><button style="float-right:30px;">anterior</button></a>
+<a href="inicio.php"><button style="float-right:30px;">Inicio</button></a>
+<a href="4.php"><button style="float-right:30px;">siguiente</button></a>
 <br>
 </div>
 
         </div>
         <footer class="footer full-reset">
 
-            <div class="footer-copyright full-reset all-tittles">Chiphysi Peliculas</div>
+            <div class="footer-copyright full-reset all-tittles">Comentario.</div>
         </footer>
+      
+        <center>
+        
+        <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v10.0" nonce="jPdBhHZW"></script>
+
+<div class="fb-comments" data-href="http://localhost/samuel/trabajo/peliculas/inicio.php" data-width="" data-numposts="100"></div>
+</center>
     </div>
 </body>
 </html>
