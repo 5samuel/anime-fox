@@ -20,7 +20,13 @@
 /*imagenes de los capitulos*/
 .imgc{
     width: 100px;
+    
     position: absolute;
     left: 110px;
     
+}
+
+.nombre{
+
+color: red;
 }
