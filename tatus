@@ -1,0 +1,301 @@
+[33mcommit 96727e75ef972d9babcb36adb85a25f362b92e19[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Wed Apr 14 15:52:57 2021 -0400
+
+    SNKS1
+
+[33mcommit 8f65aeb54d4c1b9b311e3a8236bb1f121cb5f98d[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 9d54cd0 b156386
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Wed Apr 14 09:13:02 2021 -0600
+
+    Merge branch 'main' of https://github.com/5samuel/anime-fox into main
+
+[33mcommit 9d54cd0a6e13d0aba0eedce2e3d7290ebe4cf4c2[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Wed Apr 14 09:12:13 2021 -0600
+
+    agregacion del anime slime
+
+[33mcommit b156386d08e67f135d84c73969099d03f8748af9[m
+Merge: a7339bb 370722c
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Wed Apr 14 11:09:47 2021 -0400
+
+    Merge branch 'main' of https://github.com/5samuel/anime-fox into main
+
+[33mcommit a7339bbdce0e343678e6d4fa0f6497260992114d[m
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Wed Apr 14 11:09:41 2021 -0400
+
+    BloodC Agregado+ limpieza
+
+[33mcommit 370722cd9bab475fce4e7b79b7ee62da6eed404c[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Wed Apr 14 07:15:35 2021 -0600
+
+    inicio y style
+
+[33mcommit 423a00d419ec4ea9b031953ebefcec608328e551[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Wed Apr 14 06:53:44 2021 -0600
+
+    estado
+
+[33mcommit cabaf1f6a328b7d90b840212676a0588c939d0f8[m
+Merge: c91a066 8db774e
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Wed Apr 14 06:47:06 2021 -0600
+
+    cambios en inicio y estilos de img
+
+[33mcommit c91a06631b65ce73ce6dc3ffd024cafa09a01e80[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Wed Apr 14 06:42:28 2021 -0600
+
+    imagenes no game no life
+
+[33mcommit 486750f04f5bf92216020f6d733b64c8f6dfd465[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Wed Apr 14 06:42:03 2021 -0600
+
+    estilos, de los capitulos de los amimes
+
+[33mcommit ceb00a079737fa9d02fb9abe2bc59bea1c20b87d[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Wed Apr 14 06:41:23 2021 -0600
+
+    nombre de la pagina en el font
+
+[33mcommit 8db774e52b374942dfbc6c10f2802691870aebc9[m
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 15:35:12 2021 -0400
+
+    incio + img css
+
+[33mcommit fa8125c7bee75ee8679a9bf21f2f97f7748816f2[m
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 15:14:42 2021 -0400
+
+    css
+
+[33mcommit c02f72000d4c466ab38c3111ad88e42e63620b01[m
+Merge: a74b84c 63bb001
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 15:06:58 2021 -0400
+
+    Merge branch 'main' of https://github.com/5samuel/anime-fox into main
+
+[33mcommit a74b84c3515da0eb21e0573924e9e06ff878da10[m
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 15:06:37 2021 -0400
+
+    Inicio
+
+[33mcommit 63bb0017ed65494c861efd1ed5456671d3755cff[m
+Merge: 6fe4c2c c910e59
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 13:04:25 2021 -0600
+
+    Merge branch 'main' of https://github.com/5samuel/anime-fox into main
+
+[33mcommit 6fe4c2c3faf77a0751f7056b95d78ec2cd939185[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 13:02:31 2021 -0600
+
+    foxx
+
+[33mcommit c910e59a0ab1ba5c68ecc391d4c26ea8efdb9f7e[m
+Merge: 8803edc e0aa8ab
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 14:42:02 2021 -0400
+
+    Merge branch 'main' of https://github.com/5samuel/anime-fox into main
+
+[33mcommit 8803edc37912b2b50b1e181f4102866b461754cc[m
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 14:41:41 2021 -0400
+
+    onepunchmans2
+
+[33mcommit e0aa8ab4f162f448d2456db7984d9b9cee5fd3b3[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 12:26:45 2021 -0600
+
+    eliminacion
+
+[33mcommit e7128299ba2af2883fec5d28372c02bb8503cf7e[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 12:24:13 2021 -0600
+
+    inicio y copiado de main de codigo abierto
+
+[33mcommit 7469a43fdf0e37bf82a01a1d28a833831b35fb42[m
+Merge: fa6eb33 08c3c45
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 14:21:53 2021 -0400
+
+    Merge branch 'main' of https://github.com/5samuel/anime-fox into main
+
+[33mcommit fa6eb33b959101c7dd8555f86ff9d420f4bf2672[m
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 14:21:23 2021 -0400
+
+    one punch man 2da
+
+[33mcommit 08c3c45a15ffb760e49ec20c536824be1e6c4ffe[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 11:41:42 2021 -0600
+
+    main.js
+
+[33mcommit 0223d68e62d1e926307b318169b72bb21a552300[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 11:38:39 2021 -0600
+
+    comentario
+
+[33mcommit 5e110d0c08244868ddefe0564a0922e034130c71[m
+Merge: 9796512 2819f91
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 11:37:06 2021 -0600
+
+    Merge branch 'main' of https://github.com/5samuel/anime-fox into main
+
+[33mcommit 9796512e46ae36436e1160dfcbf55741503d8b9f[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 11:35:35 2021 -0600
+
+    m
+
+[33mcommit 2819f91bddd95d05a62f763a5281318b4f269a49[m
+Merge: 67e7712 0924735
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 13:26:11 2021 -0400
+
+    Merge branch 'main' of https://github.com/5samuel/anime-fox into main
+
+[33mcommit 67e7712c21e53be9a04e03ee483c73a9ff05f364[m
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 13:25:24 2021 -0400
+
+    onepunchman titulos
+
+[33mcommit 09247355dba13f53c1a06962abbe43ce83687b19[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 11:22:04 2021 -0600
+
+    Merge branch 'main' of https://github.com/5samuel/anime-fox into main
+
+[33mcommit 1454f1d6ae5b1c830cb2aaa940eb73693c1418b4[m
+Merge: 822934d 724c474
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 11:21:55 2021 -0600
+
+    Merge branch 'main' of https://github.com/5samuel/anime-fox into main
+
+[33mcommit 822934d13c6c2672fd44d6ee2897b71cac217e93[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 11:21:11 2021 -0600
+
+    main
+
+[33mcommit 724c474545bf94da81ea6ccde6f568f830971169[m
+Merge: 8e60d62 3645c95
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 13:18:02 2021 -0400
+
+    Merge branch 'main' of https://github.com/5samuel/anime-fox into main
+
+[33mcommit 8e60d62427d35fdbc7ff77513c723ed67407b6bb[m
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 13:16:02 2021 -0400
+
+    One Punch Man
+
+[33mcommit 3645c95eede8f8b6caa013d64767033aa7679214[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 10:53:02 2021 -0600
+
+    m
+
+[33mcommit 0efd16f6b40ac2561a147b0fef872421ddaa8d92[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 10:32:14 2021 -0600
+
+    titulo
+
+[33mcommit 728014abdf776ea761e5d1a2cd7ae781245568bc[m
+Merge: 795283d 85648cf
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 10:14:12 2021 -0600
+
+    m
+
+[33mcommit 795283d2214a8a03fc41b779d257c16849ac7aec[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 10:11:35 2021 -0600
+
+    boton
+
+[33mcommit 85648cf1bddc980fab3f191128104670ceb93600[m
+Merge: 7c0d0c2 7bbc84b
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 12:09:47 2021 -0400
+
+    Merge branch 'main' of https://github.com/5samuel/anime-fox into main
+
+[33mcommit 7c0d0c23b28c76702da4980ff6b689b4b96855ff[m
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 11:51:03 2021 -0400
+
+    Cambio a main
+
+[33mcommit c9e23f15e69542007dd346975b210ef508dee8e0[m
+Author: JeffersonHidalgo <jeffersonhidalgo@gmail.com>
+Date:   Tue Apr 13 11:45:34 2021 -0400
+
+    first commit
+
+[33mcommit f8d47b5c761f10b998efe993de1274a51089594f[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 08:02:03 2021 -0600
+
+    estilos del boton
+
+[33mcommit b5caef9bace146b3c393830ac2e9be0809ecc253[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 07:45:11 2021 -0600
+
+    corrección
+
+[33mcommit 7bbc84b3e8a2c7fed8e392c3fddd762e7434d6f8[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 07:26:49 2021 -0600
+
+    eliminacion
+
+[33mcommit 9606eb2893ccd52168946c394ab72bc669a2de8c[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 07:13:30 2021 -0600
+
+    inicio y readme
+
+[33mcommit 6dc0e6943ef20c903fe670aa82b59d50c37373ea[m
+Merge: f9a017f 6290480
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 07:10:31 2021 -0600
+
+    Merge branch 'main' of https://github.com/5samuel/anime-fox into main
+
+[33mcommit f9a017f32186f23409c001640510aa2c3fb1ef22[m
+Author: samuelangeles <samueljoseangelereye@gmail.com>
+Date:   Tue Apr 13 07:08:27 2021 -0600
+
+    proyecto
+
+[33mcommit 629048051b108f1aafe339c97f2d48c738c240d6[m
+Author: SamuelÁngeles21 <62578007+5samuel@users.noreply.github.com>
+Date:   Tue Apr 13 07:07:50 2021 -0600
+
+    Initial commit
