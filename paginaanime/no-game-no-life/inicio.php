@@ -122,7 +122,7 @@ capituli 1
 <br>
 <center>
 <a href="2.php" style="color:black;">
-<h3><img src="../../img/1.jpg" class="imgc">No game no life</h3>
+<h3><img src="../../img/2.jpg" class="imgc">No game no life</h3>
 capitulo 2
 </a>
 </center>
