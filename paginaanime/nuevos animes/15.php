@@ -101,10 +101,11 @@
 <br>
 
 </div>
+<!-- Botones -->
 <br>
 <a href="14.php"><button style="float-right:30px;">Anterior</button></a>
-
 <a href="inicio.php"><button style="float-right:30px;">capitulos</button></a>
+
 
 <br>
 </div>

@@ -100,6 +100,7 @@
 <div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="" controls style="position:absolute;width:97%;height:100%;left:0; border-radius: 10px;" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 <br>
 </div>
+<!-- Botones -->
 <br>
 <a href="10.php"><button style="float-right:30px;">Anterior</button></a>
 <a href="12.php"><button style="float-right:30px;">Siguiente</button></a>
