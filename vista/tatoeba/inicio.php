@@ -8,7 +8,6 @@
     <script src="js/sweet-alert.min.js"></script>
     <link rel="stylesheet" href="../../css/sweet-alert.css">
     <link rel="stylesheet" href="../../css/estado.css">
-    <link rel="stylesheet" href="../../css/estado1.css">
     <link rel="stylesheet" href="../../css/img.css">
     <link rel="stylesheet" href="../../css/material-design-iconic-font.min.css">
     <link rel="stylesheet" href="../../css/normalize.css">
@@ -43,24 +42,11 @@
             </div>
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
-                    <li><a href="http://localhost/samuel/trabajo/peliculas/inicio.html"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
-                    <li>
-                        <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Animes <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
-                        <ul class="list-unstyled">
-                           <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Demon King academy</a></li>
-                            <li><a href="../mortal/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Mortal </a></li>
-                            <li><a href="../smarfon/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Isikai </a></li>
-                            <li><a href="../tatoeba/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Tatoeba</a></li>
-                            <li><a href="esperamelodrama.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Melodrama</a></li>
-                            <li><a href="esperamusical.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Musical</a></li>
-                            <li><a href="esperaromance.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Romance</a></li>
-                            <li><a href="esperasuspense.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Suspense</a></li>
-                            <li><a href="esperaterror.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Terror </a></li>
-                        </ul>
-                    </li>
-                    	 <li><a href="espera.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Nuevas Peliculas</a></li>
+                    <li><a href="./usuario-n-r.html"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
+                   
+                    
 
-                    	 <li><a href="desconectar.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Cerrar</a></li>
+                    	 
                     </li>
                 </ul>
             </div>
@@ -72,7 +58,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">the daily life of the immortal king</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">tatoeba</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -83,22 +69,26 @@
         <div class="container-fluid"  style="margin: 50px 0;">
             <div class="row">
                 <div class="col-xs-12 col-sm-4 col-md-3" style="width:30%; border-radius: 25px;">
-                    <img src="../../img/3.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px; max-height: 500px;" >
+                    <img src="../../img/7.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px;">
                     <br>
-                    <div class="estado"><center><h4>Emision</h4></center></div> <div class="imagen"><img src="../../img/megusta.png" alt=""></div>
+                    <div class="estado"><center><h4>Finalizado</h4></center></div> <div class="imagen"><img src="../../img/megusta.png" alt=""></div>
+                    <link rel="stylesheet" href="../../css/sweet-alert.css">
                 </div>
                 <div class="col-xs-12 col-sm-8 col-md-8 text-justify lead">
                    <h2>sipnosis</h2>
-                    <p>Kyôko es una alumna modélica y popular que al llegar a casa se convierte en una chica hogareña muy discreta. Miyamura, su compañero de clase, es un tipo del montón con cierto aire de friki que en sus ratos libres se transforma en un chico muy atractivo con piercings y mucho estilo.
+                    <p>Serie de TV (2020). 12 episodios. Lloyd es un aventurero novato cuyo sueño es descubrir la "fuerza verdadera" en la capital que siempre admiró, a pesar de vivir con vecinos que siempre le consideraron un debilucho. Su pueblo natal está al lado de una de las mazmorras más peligrosas del mundo, por lo que, pese a que Lloyd piensa que es muy débil, cuando llegue a la ciudad descubrirá que no es así
 <center>
-<h3>Título original: Horimiya (ホリミヤ)</h3>
-<h3>ISBN OC: 8467928190</h3>
-<h3>Autor/es: HERO, Daisuke Hagiwara</h3>
-<h3>Géneros: comedia, romance, shojo</h3>
-<h3>Formato: Rústica con sobrecubierta 13 x 18,2 cm</h3>
-<h3>Estado: En publicación (14 volúmen/es)</h3>
-<h3>Editorial Española: Norma Editorial</h3>
-<h3>Editorial Japonesa: Square Enix</h3>
+<h3>Título original: Tatoeba Last Dungeon Mae no Mura no Shōnen ga Joban no Machi de Kurasu Yō na Monogatari (TV Series)</h3>
+<h3>Año: 2021</h3>
+<h3>Duración: 23 min.</h3>
+<h3>País: Japón Japón</h3>
+<h3>Dirección: migmi</h3>
+<h3>Guion: Deko Akao (Novela: Toshio Satō, Nao Watanuki)</h3>
+<h3>Música: Michiru</h3>
+<h3>Fotografía: Animación</h3>
+<h3>Reparto: Animación</h3>
+<h3>Productora: Liden Films</h3>
+<h3>Género: Serie de TV. Animación. Fantástico. Aventuras. Comedia | Magia. Espada y brujería. Monstruos</h3>
 </center>
 
                     </p>
@@ -108,7 +98,7 @@
         <div class="container-fluid">
 <div class="container-flat-form" style="
 width:80% ;
-    background: white;
+    background: #BFC9CA;
     color: white;
     padding: 20px;
     margin: 5%;
@@ -116,13 +106,13 @@ width:80% ;
     ">
 <center>
 <a href="1.php" style="color:black;">
-<img src="../../img/1.jpg"class="imgc"><h1> capitulo1</h1>
+<h1>capitulo 1</h1>
 </a>
 </center>
 <br>
 <center>
-<a href="2.php" style="color:black;">
-<h1><img src="../../img" style=" width:90px;">__capitulo 2__</h1>
+<a href="2.php">
+<h1>capitulo 2</h1>
 </a>
 </center>
 
@@ -168,6 +158,13 @@ width:80% ;
 <h1>capitulo 9</h1>
 </a>
 </center>
+<br>
+<center>
+<a href="10.php" style="color:black;">
+<h1>capitulo 10</h1>
+</a>
+</center>
+<br>
 
 </div>
 

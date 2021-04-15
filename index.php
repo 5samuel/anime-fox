@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="./css/video.css">
   </head>
   <body>
-  <video src="./anime/fondo/1.mp4" autoplay muted lopp ></video>
+  <video src="./anime/fondo/1.mp4" autoplay muted loop ></video>
     <?php require 'partials/header.php' ?>
     <center>
 <main>
