@@ -42,7 +42,11 @@
             </div>
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
-                <li><a href="../..//inicio.html"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>                    <li>
+                <li><a href="../..//inicio.html"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>  
+
+                <!-- Aqui se agrega el menu de cada pagina inicial, Aun esta en proceso de edicion-->        
+                 
+                      <li>
                         <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Animes <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
                         <ul class="list-unstyled">
                            <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; One Punch Man</a></li>
@@ -113,6 +117,8 @@ width:80% ;
     border-radius: 20px;
     box-shadow: 0px 0px 5px black;
     ">
+    <!-- Aqui se agregan las portadas y nombres de cada capitulo -->
+
 <center>
 <a href="1.php" style="color:black;">
 <img src="../../img/snk/1.png" class="imgc" ><h3 style="color:black;">Shingeki No Kyojin </h3>
