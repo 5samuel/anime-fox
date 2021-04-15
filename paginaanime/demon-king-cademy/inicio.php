@@ -45,15 +45,16 @@
                     <li>
                         <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; anime <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
                         <ul class="list-unstyled">
-                        <li><a href="../mortal/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Mortal</a></li>
-                            <li><a href="../no-game-no-life/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; No game no life </a></li>
-                            <li><a href="../smarfon/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Isekai smarphone </a></li>
-                            <li><a href="../Horimiya/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Horimiya</a></li>
-                            <li><a href="../onepunchman/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Melodrama</a></li>
-                            <li><a href="esperamusical.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; One punch man</a></li>
-                            <li><a href="esperaromance.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Romance</a></li>
-                            <li><a href="esperasuspense.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Suspense</a></li>
-                            <li><a href="esperaterror.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Terror </a></li>
+                        <li><a href="../../paginaanime/demon-king-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp;<i> Demon King academy</i></a></li>
+                            <li><a href="../../paginaanime/mortal/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>Mortal</i> </a></li>
+                            <li><a href="../../paginaanime/horimiya/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>Horimiya</i> </a></li>
+                            <li><a href="../../paginaanime/smarfon/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>Isekai smartphone</i></a></li>
+                            <li><a href="../../paginaanime/no-game-no-life/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i> No game no life</i></a></li>
+                            <li><a href="../../paginaanime/tatoeba/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i> tatoeba last dungeon</i></a></li>
+                            <li><a href="../../paginaanime/onepunchman/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>One Punch</i></a></li>
+                            <li><a href="../../paginaanime/onepunchman s2/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>One Punch Man 2nd Temporada</i></a></li>
+                         ##   <li><a href="../../paginaanime/snk1/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>Shingeki No Kyojin</i></a></li>
+                         <!--Espacios disponibles-->
                         </ul>
                     </li>
                     	 <li><a href="../../buscador/index.html"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Buscador</a></li>
