@@ -116,6 +116,9 @@ width:80% ;
     border-radius: 20px;
     ">
     <!--Capitulos, Nombres y portadas-->
+
+    <!-- ruta⚓ (../../img/carpetadelanime/name.jpg,png o Gif )🚨 sustituir correctamente
+              los campos y crear carpetas con las iniciales del anime-->
 <center>
 <a href="1.php" style="color:black;">
 <h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">Nombre del anime</h3>

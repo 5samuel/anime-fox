@@ -103,8 +103,9 @@
 </div>
 <br>
 <a href="11.php"><button style="float-right:30px;">Anterior</button></a>
-
 <a href="inicio.php"><button style="float-right:30px;">capitulos</button></a>
+<a href="13.php"><button style="float-right:30px;">Siguiente</button></a>
+
 
 <br>
 </div>
