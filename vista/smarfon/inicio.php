@@ -8,7 +8,6 @@
     <script src="js/sweet-alert.min.js"></script>
     <link rel="stylesheet" href="../../css/sweet-alert.css">
     <link rel="stylesheet" href="../../css/estado.css">
-    <link rel="stylesheet" href="../../css/estado1.css">
     <link rel="stylesheet" href="../../css/img.css">
     <link rel="stylesheet" href="../../css/material-design-iconic-font.min.css">
     <link rel="stylesheet" href="../../css/normalize.css">
@@ -43,14 +42,14 @@
             </div>
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
-                    <li><a href="http://localhost/samuel/trabajo/peliculas/inicio.html"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
+                    <li><a href="./usuario-n-r.html"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
                     <li>
                         <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Animes <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
                         <ul class="list-unstyled">
                            <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Demon King academy</a></li>
-                            <li><a href="../mortal/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Mortal </a></li>
-                            <li><a href="../smarfon/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Isikai </a></li>
-                            <li><a href="../tatoeba/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Tatoeba</a></li>
+                            <li><a href="../horimiya/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Horimiya </a></li>
+                            <li><a href="../mortal/incio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Mortal </a></li>
+                            <li><a href="../no-game-no-life/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; No game no life</a></li>
                             <li><a href="esperamelodrama.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Melodrama</a></li>
                             <li><a href="esperamusical.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Musical</a></li>
                             <li><a href="esperaromance.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Romance</a></li>
@@ -72,7 +71,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">the daily life of the immortal king</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">Isekai smartphone</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -83,22 +82,20 @@
         <div class="container-fluid"  style="margin: 50px 0;">
             <div class="row">
                 <div class="col-xs-12 col-sm-4 col-md-3" style="width:30%; border-radius: 25px;">
-                    <img src="../../img/3.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px; max-height: 500px;" >
+                    <img src="../../img/4.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px;">
                     <br>
-                    <div class="estado"><center><h4>Emision</h4></center></div> <div class="imagen"><img src="../../img/megusta.png" alt=""></div>
+                    <div class="estado"><center><h4>Finalizado</h4></center></div> <div class="imagen"><img src="../../img/megusta.png" alt=""></div>
+                    <link rel="stylesheet" href="../../css/sweet-alert.css">
                 </div>
                 <div class="col-xs-12 col-sm-8 col-md-8 text-justify lead">
                    <h2>sipnosis</h2>
-                    <p>Kyôko es una alumna modélica y popular que al llegar a casa se convierte en una chica hogareña muy discreta. Miyamura, su compañero de clase, es un tipo del montón con cierto aire de friki que en sus ratos libres se transforma en un chico muy atractivo con piercings y mucho estilo.
+                    <p>Después de un extraño accidente en el que lo mataron unos rayos, el joven de 15 años Touya Mochizuki se despierta para encontrarse cara a cara con Dios. “Lamento decir que he cometido un error…” se queja el viejo gruñón antes de decirle que puede reencarnarle en un Touya de un mundo de fantasía y, como recompensa, le permite llevarse su smarthphone. Y así comienza la aventura de Touya en un nuevo mundo pseudo-medieval y anacrónico. ¡Amigos! ¡Risas! ¡Lágrimas! ¡Inexpicable Deus ex Machina! El chico se embarca en un viaje lleno de cosas increíbles, viajando distraídamente de un lugar a otro, siguiendo cualquier objetivo que le atraiga.
 <center>
-<h3>Título original: Horimiya (ホリミヤ)</h3>
-<h3>ISBN OC: 8467928190</h3>
-<h3>Autor/es: HERO, Daisuke Hagiwara</h3>
-<h3>Géneros: comedia, romance, shojo</h3>
-<h3>Formato: Rústica con sobrecubierta 13 x 18,2 cm</h3>
-<h3>Estado: En publicación (14 volúmen/es)</h3>
-<h3>Editorial Española: Norma Editorial</h3>
-<h3>Editorial Japonesa: Square Enix</h3>
+<h3>>Autor: Patora Fuyuhara</h3>
+<h3>Música por: Exit Tunes</h3>
+<h3>Episodios: 12</h3>
+<h3>Primera emisión: 11 de julio de 2017</h3>
+<h3>Géneros: Fantasía, Harem, Isekai</h3>
 </center>
 
                     </p>
@@ -108,7 +105,7 @@
         <div class="container-fluid">
 <div class="container-flat-form" style="
 width:80% ;
-    background: white;
+    background: #BFC9CA;
     color: white;
     padding: 20px;
     margin: 5%;
@@ -116,58 +113,90 @@ width:80% ;
     ">
 <center>
 <a href="1.php" style="color:black;">
-<img src="../../img/1.jpg"class="imgc"><h1> capitulo1</h1>
+<h2><img src="../../img/4.jpg" class="imgc">Isekai wa Smartphone to Tomoni</h3>
+capitulo 1
 </a>
 </center>
 <br>
 <center>
 <a href="2.php" style="color:black;">
-<h1><img src="../../img" style=" width:90px;">__capitulo 2__</h1>
+<h2><img src="../../img/4.jpg" class="imgc">Isekai wa Smartphone to Tomoni</h3>
+capitulo 2
 </a>
 </center>
 
 <br>
 <center>
 <a href="3.php" style="color:black;">
-<h1>capitulo 3</h1>
+<h2><img src="../../img/4.jpg" class="imgc">Isekai wa Smartphone to Tomoni</h3>
+capitulo 3
 </a>
 </center>
 <br>
 <center>
-<a href="4.php" style="color:black;">
-<h1>capitulo 4</h1>
+<a href="4.php"style="color:black;">
+<h2><img src="../../img/4.jpg" class="imgc">Isekai wa Smartphone to Tomoni</h3>
+capitulo 4
 </a>
 </center>
 <br>
 <center>
 <a href="5.php" style="color:black;">
-<h1>capitulo 5</h1>
+<h2><img src="../../img/4.jpg" class="imgc">Isekai wa Smartphone to Tomoni</h3>
+capitulo 5
 </a>
 </center>
 <br>
 <center>
 <a href="6.php" style="color:black;">
-<h1>capitulo 6</h1>
+<h2><img src="../../img/4.jpg" class="imgc">Isekai wa Smartphone to Tomoni</h3>
+capitulo 6
 </a>
 </center>
 <br>
 <center>
-<a href="7.php" style="color:black;">
-<h1>capitulo 7</h1>
+<a href="7.php" style="color:black;" >
+<h2><img src="../../img/4.jpg" class="imgc">Isekai wa Smartphone to Tomoni</h3>
+capitulo 7
 </a>
 </center>
 <br>
 <center>
 <a href="8.php" style="color:black;">
-<h1>capitulo 8</h1>
+<h2><img src="../../img/4.jpg" class="imgc">Isekai wa Smartphone to Tomoni</h3>
+capitulo 8
 </a>
 </center>
 <br>
 <center>
 <a href="9.php" style="color:black;">
-<h1>capitulo 9</h1>
+<h2><img src="../../img/4.jpg" class="imgc">Isekai wa Smartphone to Tomoni</h3>
+capitulo 9
 </a>
 </center>
+<br>
+<center>
+<a href="10.php" style="color:black;">
+<h2><img src="../../img/4.jpg" class="imgc">Isekai wa Smartphone to Tomoni</h3>
+capitulo 10
+</a>
+</center>
+<br>
+<center>
+<a href="11.php" style="color:black;">
+<h2><img src="../../img/4.jpg" class="imgc">Isekai wa Smartphone to Tomoni</h3>
+capitulo 11
+</a>
+</center>
+<br>
+<center>
+<a href="12.php" style="color:black;">
+<h2><img src="../../img/4.jpg" class="imgc">Isekai wa Smartphone to Tomoni</h3>
+capitulo 12
+</a>
+</center>
+<br>
+<center>
 
 </div>
 
