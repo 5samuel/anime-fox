@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <!--Aqui va el titulo de la pestala colocar nombre del anime-->
+    <!--Aqui va el titulo de la pestaa colocar nombre del anime-->
     <title>Titulo</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
