@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="../../css/bootstrap.min.css">
     <link rel="stylesheet" href="../../css/jquery.mCustomScrollbar.css">
     <link rel="stylesheet" href="../../css/style.css">
-    <link rel="stylesheet" href="../../css/video.css">
+    
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/jquery-1.11.2.min.js"><\/script>')</script>
     <script src="../../js/modernizr.js"></script>
@@ -86,7 +86,7 @@
         <div class="container-fluid"  style="margin: 50px 0;">
             <div class="row">
                 <div class="col-xs-12 col-sm-4 col-md-3" style="width:30%; border-radius: 25px;">
-                    <img src="../../img/snk.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px;">
+                  <main class="imgs">  <img src="../../img/snk.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px;"></main>
                     <br>
                     <div class="estado"><center><h4>Finalizado</h4></center></div> <div class="imagen"><img src="../../img/megusta.png" alt=""></div>
                 </div>
