@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<title>One Punch Man</title>
+    <!--titulo del anime en la pestaña-->
+<title>Hellsing Ultimate</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -38,26 +39,22 @@
                 <figure>
                     <img src="../../img/logo.jpg" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
                 </figure>
-                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">One Punch Man</font></p>
+                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">the daily life of the immortal king</font></p>
             </div>
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
-                <li><a href="../..//inicio.html"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>                    <li>
+                    <li><a href="../../inicio.html"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
+                    <li>
                         <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Animes <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
                         <ul class="list-unstyled">
-                        <li><a href="../../paginaanime/demon-king-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp;<i> Demon King academy</i></a></li>
-                            <li><a href="../../paginaanime/mortal/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>Mortal</i> </a></li>
-                            <li><a href="../../paginaanime/horimiya/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>Horimiya</i> </a></li>
-                            <li><a href="../../paginaanime/smarfon/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>Isekai smartphone</i></a></li>
-                            <li><a href="../../paginaanime/no-game-no-life/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i> No game no life</i></a></li>
-                            <li><a href="../../paginaanime/tatoeba/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i> tatoeba last dungeon</i></a></li>
-                            <li><a href="../../paginaanime/onepunchman/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>One Punch</i></a></li>
-                            <li><a href="../../paginaanime/onepunchman s2/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>One Punch Man 2nd Temporada</i></a></li>
-                         ##   <li><a href="../../paginaanime/snk1/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>Shingeki No Kyojin</i></a></li>
-                         <!--Espacios disponibles-->
-                         </ul>
+                        <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Demon King academy</a></li>
+                            <li><a href="../mortal/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Mortal </a></li>
+                            <li><a href="../smarfon/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Isikai </a></li>
+                            <li><a href="../Horimiya/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Horimoya</a></li>
+                 >
+                        </ul>
                     </li>
-                    	
+                    	 <li><a href="espera.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Nuevas Peliculas</a></li>
 
                     	 <li><a href="desconectar.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Cerrar</a></li>
                     </li>
@@ -67,11 +64,13 @@
     </div>
     <div class="content-page-container full-reset custom-scroll-containers">
 
+<!-- Nombre del anime en pantalla-->
+
     	 <div class="footer-copyright full-reset all-tittles">Mundo anime</div>
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">One Punch Man 2da Temporada</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">Hellsing Ultimate</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -82,49 +81,60 @@
         <div class="container-fluid"  style="margin: 50px 0;">
             <div class="row">
                 <div class="col-xs-12 col-sm-4 col-md-3" style="width:30%; border-radius: 25px;">
-                    <img src="../../img/onp2.jpg" alt="user" class="img-responsive center-box" style="max-width: 300px;">
+                    <img src="../../img/hl.jpg" alt="user" class="img-responsive center-box" style="max-width: 200px;">
                     <br>
                     <div class="estado"><center><h4>Finalizado</h4></center></div> <div class="imagen"><img src="../../img/megusta.png" alt=""></div>
                 </div>
+                <div class="sip"><center> <h2 >sipnosis</h2></div></center>
                 <div class="col-xs-12 col-sm-8 col-md-8 text-justify lead">
-                   <h2>sipnosis</h2>
-                    <p>La serie está protagonizada por un héroe que ha entrenado tanto que se ha quedado calvo, y tiene tanta fuerza que puede acabar con cualquier enemigo de un solo puñetazo. Sin embargo, al ser tan fuerte, se aburre y se frustra porque no le cuesta nada vencer sus batallas.
-<center>
-<h3>Título original: One Punch Man 2da temporada</h3>
-<h3>Año:2018</h3>
-<h3>País:Japon</h3>
-<h3>Dirección: Toei Animation</h3>
-<h3>Fotografía: Animación</h3>
-<h3>Reparto: Animación</h3>
-<h3>Productora: Bilibili</h3>
+
+                  <!--sipnosis del Anime donde dice aqui-->
+                    <p>Hellsing es una organización que se dedica a detener
+                         a los malvados que acechan en la oscuridad, los vampiros.
+                          También se encargan de otros monstruos de la noche y los matan. 
+                          La organización existe hace mucho tiempo y su liderazgo
+                           ha ido pasando de padres a hijos durante siglos.
+                            Sin embargo, hoy en día, la jefa actual de la 
+                            organización encontró algo muy importante, su arma mas
+                             mortal y poderosa, el inmortal vampiro, Alucard, 
+                             que esta sometido a la organización por sellos restrictivos
+                              y obedece las ordenes de cada uno de los lideres
+                               de la familia a lo largo de los siglos.<center>
+                        <!-- Datos del Anime-->
+<h3>Título original</h3>
+<h3>Hellsing Ultimate (TV Series)</h3>
+<h3>Año:2014</h3>
+<h3>Duración: 25 min.</h3>
+<h3>País: Japón Japón</h3>
 </center>
 
                     </p>
                 </div>
             </div>
         </div>
-        
         <div class="container-fluid">
-            <center>
-<div class="container-flat-form" style="
+<div class="container-flat-form"style="
 width:80% ;
-    background: white ;
+    background: #BFC9CA;
     color: white;
     padding: 20px;
     margin: 5%;
     border-radius: 20px;
-    box-shadow: 0px 0px 5px black;
     ">
+    <!--Capitulos, Nombres y portadas-->
+
+    <!-- ruta⚓ (../../img/carpetadelanime/name.jpg,png o Gif )🚨 sustituir correctamente
+              los campos y crear carpetas con las iniciales del anime-->
 <center>
 <a href="1.php" style="color:black;">
-<img src="../../img/onp2/c1.png" class="imgc" ><h3 style="color:black;">One Punch Man </h3>
-capitulo 1
+<h3><img src="https://cdn.animeflv.net/screenshots/441/1/th_3.jpg" class="imgc">Hellsing Ultimate</h3>
+capituli 1
 </a>
 </center>
 <br>
 <center>
 <a href="2.php" style="color:black;">
-<img src="../../img/onp2/c2.png" class="imgc"><h3>One Punch Man </h3>
+<h3><img src="https://cdn.animeflv.net/screenshots/441/2/th_3.jpg" class="imgc">Hellsing Ultimate</h3>
 capitulo 2
 </a>
 </center>
@@ -132,77 +142,67 @@ capitulo 2
 <br>
 <center>
 <a href="3.php" style="color:black;">
-<img src="../../img/onp2/c3.png" class="imgc"><h3>One Punch Man </h3>
+<h3><img src="https://cdn.animeflv.net/screenshots/441/3/th_3.jpg" class="imgc">Hellsing Ultimate</h3>
 capitulo 3
 </a>
 </center>
 <br>
 <center>
 <a href="4.php" style="color:black;">
-<img src="../../img/onp2/c4.png" class="imgc"><h3>One Punch Man </h3>
+<h3><img src="https://cdn.animeflv.net/screenshots/441/4/th_3.jpg" class="imgc">Hellsing Ultimate</h3>
 capitulo 4
 </a>
 </center>
 <br>
 <center>
 <a href="5.php" style="color:black;">
-<img src="../../img/onp2/c5.png" class="imgc"><h3>One Punch Man </h3>
+<h3><img src="https://cdn.animeflv.net/screenshots/441/5/th_3.jpg" class="imgc">Hellsing Ultimate</h3>
 capitulo 5
 </a>
 </center>
 <br>
 <center>
 <a href="6.php" style="color:black;">
-<img src="../../img/onp2/c6.png" class="imgc"><h3>One Punch Man </h3>
+<h3><img src="https://cdn.animeflv.net/screenshots/441/6/th_3.jpg" class="imgc">Hellsing Ultimate</h3>
 capitulo 6
 </a>
 </center>
 <br>
 <center>
 <a href="7.php" style="color:black;">
-<img src="../../img/onp2/c7.png" class="imgc"><h3>One Punch Man </h3>
+<h3><img src="https://cdn.animeflv.net/screenshots/441/7/th_3.jpg" class="imgc">Hellsing Ultimate</h3>
 capitulo 7
 </a>
 </center>
 <br>
 <center>
 <a href="8.php" style="color:black;">
-<img src="../../img/onp2/c8.png" class="imgc"><h3>One Punch Man </h3>
+<h3><img src="https://cdn.animeflv.net/screenshots/441/8/th_3.jpg" class="imgc">Hellsing Ultimate</h3>
 capitulo 8
 </a>
 </center>
 <br>
 <center>
-<a href="9.php" style="color:black;">
-<img src="../../img/onp2/c9.png" class="imgc"><h3>One Punch Man </h3>
+    <a href="9.php" style="color:black;">
+<img src="https://cdn.animeflv.net/screenshots/441/9/th_3.jpg" class="imgc">Hellsing Ultimate</h3>
 capitulo 9
 </a>
 </center>
 <br>
+<br>
 <center>
 <a href="10.php" style="color:black;">
-<img src="../../img/onp2/c10.png" class="imgc"><h3>One Punch Man </h3>
+<h3><img src="https://cdn.animeflv.net/screenshots/441/10/th_3.jpg" class="imgc">Hellsing Ultimate</h3>
 capitulo 10
 </a>
 </center>
-<br>
 <center>
-<a href="11.php" style="color:black;">
-<img src="../../img/onp2/c11.png" class="imgc"><h3>One Punch Man </h3>
-capitulo 11
-</a>
-</center>
+<a href="9.php" style="color:black;">
+<h3>
 <br>
-<center>
-<a href="12.php" style="color:black;">
-<img src="../../img/onp2/c12.png" class="imgc"><h3>One Punch Man </h3>
-capitulo 12
-</a>
-</center>
-
 </div>
 
-</center>
+
 
         </div>
         <footer class="footer full-reset">
