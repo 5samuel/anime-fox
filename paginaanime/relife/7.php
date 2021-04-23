@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>The daily life in mortal king</title>
+    <!--Aqui va el titulo de la pestaña colocar nombre del anime-->
+    <title>ReLife</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -55,23 +56,15 @@
                 </figure>
                 <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">Peliculas</font></p>
             </div>
+
+            <!--Aqui va el menu todavia no se ha terminado asi que no preocuparce por el momento-->
+
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
                     <li><a href="../../inicio.php"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
                     <li>
                         <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Peliculas <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
-                        <ul class="list-unstyled">
-                            <li><a href="esperaacción.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Acción</a></li>
-                            <li><a href="esperacienciaficción.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Ciencia ficción </a></li>
-                            <li><a href="esperacomedia.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Comedia </a></li>
-                            <li><a href="esperafantasía.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Fantasía</a></li>
-                            <li><a href="esperamelodrama.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Melodrama</a></li>
-                            <li><a href="esperamusical.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Musical</a></li>
-                            <li><a href="esperaromance.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Romance</a></li>
-                            <li><a href="esperasuspense.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Suspense</a></li>
-                            <li><a href="esperaterror.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Terror </a></li>
-                        </ul>
-                    </li>
+                        
                     	 <li><a href="espera.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Nuevas Peliculas</a></li>
 
                              <li><a href="desconectar.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Cerrar</a></li>
@@ -82,11 +75,13 @@
     </div>
     <div class="content-page-container full-reset custom-scroll-containers">
 
+        <!-- aqui va el titulo sipnosis y demas datos-->
+
     	 <div class="footer-copyright full-reset all-tittles">Mundo del anime</div>
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">mortal capitulo 3</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">ReLife Episodio 7</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -100,21 +95,17 @@
 <br>
 
 <div class="contenedor" style="height:200%;">
+<!--Aqui dentro va el video y los botones-->
 
-<<<<<<< HEAD
-
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://www.dailymotion.com/embed/video/k5Acgh3EbYuEDCvLOiy?api=postMessage&id=tamamo_player&origin=https%3A%2F%2Fwww.mundodonghua.com&queue-autoplay-next=false&queue-enable=false&sharing-enable=false&ui-logo=false&ui-start-screen-info=false" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
-
-=======
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#dW15QlpIVGkzNHZPOCtpbDdIWmtkaC8rc0p1U0FBWmZsUTVGakY3OVNOWHV6YnJOS08vZ0xkamEzaE1WZlcwZXQvQ29hc3lrOXB6SHFhbS80eGV2b0dobUJ4aE9BdEdmVDd2YUlHNG05N0lpQjg5ZXVnaVppY2N4R1RsaU80c1gzU3RwaXM0TUdPSnRmbHQvQmUzU1F3PT0" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
->>>>>>> 8039e4a62c32e28be1e2b93634b1bf1828568301
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="" controls style="position:absolute;width:97%;height:100%;left:0; border-radius: 10px;" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 <br>
 
 </div>
+<!-- Botones -->
 <br>
-<a href="2.php"><button style="float-right:30px;">Anterior</button></a>
-<a href="4.php"><button style="float-right:30px;">Siguiente</button></a>
+<a href="6.php"><button style="float-right:30px;">Anterior</button></a>
 <a href="inicio.php"><button style="float-right:30px;">capitulos</button></a>
+<a href="8.php"><button style="float-right:30px;">Siguiente</button></a>
 
 <br>
 </div>
