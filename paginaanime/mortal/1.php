@@ -101,8 +101,12 @@
 
 <div class="contenedor" style="height:200%;">
 
+<<<<<<< HEAD
 <div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://www.dailymotion.com/embed/video/k32X7piF1UgyY9vHwKx?api=postMessage&id=tamamo_player&origin=https%3A%2F%2Fwww.mundodonghua.com&queue-autoplay-next=false&queue-enable=false&sharing-enable=false&ui-logo=false&ui-start-screen-info=false" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 
+=======
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://www.youtube.com/watch?v=824mMJFe4mk&t=3s" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+>>>>>>> 8039e4a62c32e28be1e2b93634b1bf1828568301
 <br>
 
 </div>
