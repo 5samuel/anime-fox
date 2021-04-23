@@ -121,14 +121,14 @@ width:80% ;
               los campos y crear carpetas con las iniciales del anime-->
 <center>
 <a href="1.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">ReLife</h3>
+<h3><img src="../../img/rl/name.jpg" class="imgc">ReLife</h3>
 capitulo 1
 </a>
 </center>
 <br>
 <center>
 <a href="2.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">ReLife</h3>
+<h3><img src="../../img/rl/name.jpg" class="imgc">ReLife</h3>
 capitulo 2
 </a>
 </center>
@@ -136,77 +136,77 @@ capitulo 2
 <br>
 <center>
 <a href="3.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">ReLife</h3>
+<h3><img src="../../img/rl/name.jpg" class="imgc">ReLife</h3>
 capitulo 3
 </a>
 </center>
 <br>
 <center>
 <a href="4.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">ReLife</h3>
+<h3><img src="../../img/rl/name.jpg" class="imgc">ReLife</h3>
 capitulo 4
 </a>
 </center>
 <br>
 <center>
 <a href="5.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">ReLife</h3>
+<h3><img src="../../img/rl/name.jpg" class="imgc">ReLife</h3>
 capitulo 5
 </a>
 </center>
 <br>
 <center>
 <a href="6.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">ReLife</h3>
+<h3><img src="../../img/rl/name.jpg" class="imgc">ReLife</h3>
 capitulo 6
 </a>
 </center>
 <br>
 <center>
 <a href="7.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">ReLife</h3>
+<h3><img src="../../img/rl/name.jpg" class="imgc">ReLife</h3>
 capitulo 7
 </a>
 </center>
 <br>
 <center>
 <a href="8.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">ReLife</h3>
+<h3><img src="../../img/rl/name.jpg" class="imgc">ReLife</h3>
 capitulo 8
 </a>
 </center>
 <br>
 <center>
 <a href="9.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">ReLife</h3>
+<h3><img src="../../img/rl/name.jpg" class="imgc">ReLife</h3>
 capitulo 9
 </a>
 </center>
 <br>
 <center>
 <a href="10.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">ReLife</h3>
+<h3><img src="../../img/rl/name.jpg" class="imgc">ReLife</h3>
 capitulo 10
 </a>
 </center>
 <br>
 <center>
 <a href="11.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">ReLife</h3>
+<h3><img src="../../img/rl/name.jpg" class="imgc">ReLife</h3>
 capitulo 11
 </a>
 </center>
 <br>
 <center>
 <a href="12.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">ReLife</h3>
+<h3><img src="../../img/rl/name.jpg" class="imgc">ReLife</h3>
 capitulo 12
 </a>
 </center>
 <br>
 <center>
 <a href="13.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">ReLife</h3>
+<h3><img src="../../img/rl/name.jpg" class="imgc">ReLife</h3>
 capitulo 13
 </a>
 </center>
