@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Peliculas</title>
+    <title>Blood C</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -51,7 +51,7 @@
         	<br>
             <div class="full-reset" style="background-color:#2B3D51; padding: 10px 0; color:#fff;">
                 <figure>
-                    <img src="assets/img/logoo.png" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
+                    <img src="../../img/logo.jpg" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
                 </figure>
                 <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">Peliculas</font></p>
             </div>
@@ -61,9 +61,9 @@
                     <li>
                         <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Peliculas <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
                         <ul class="list-unstyled">
-                        <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Demon King academy</a></li>
-                            <li><a href="../horimiya/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Horimiya </a></li>
-                            <li><a href="../mortal/incio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Mortal </a></li>
+                            <li><a href="esperaacción.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Acción</a></li>
+                            <li><a href="esperacienciaficción.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Ciencia ficción </a></li>
+                            <li><a href="esperacomedia.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Comedia </a></li>
                             <li><a href="esperafantasía.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Fantasía</a></li>
                             <li><a href="esperamelodrama.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Melodrama</a></li>
                             <li><a href="esperamusical.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Musical</a></li>
@@ -86,7 +86,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">Smarfone capitulo 8</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">Blood-C Episodio 5</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -101,15 +101,14 @@
 
 <div class="contenedor" style="height:200%;">
 
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#SHU3Z3ZTMG54TzJnNElYa3hkN3UveVJrRjl1YTRpNVBPajRYU2FER2tmUXdTRTBLRWFzeEdCbVRBZlFNdSt5T08rcGl1T1VhbVV1Nm5DSVRuVXlocHhtVDg5RWJaTXFpUkJoTThKMWVvVGZFdWhTYVc2QW8xOGNQUXZBVmxvZ2pRWlYyTGRkMFZKQ1ZLcEZXYWh2RUd3PT0" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#ZEpSbzdnT0N3N2ZxbE1zRlVoZnhqOG5ucU1ZSDkwQmxiQWNXOVowZEpuUDBVSzJPOWN1N1dBZXJNc1lsNmJ1bldCVVhYQWdvVlBJMk5LenErNVlwcCtFQ3dhMzNNWlpUUGMxVE5jUXNTeTg9" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 <br>
 
 </div>
 <br>
-<a href="7.php"><button style="float-right:30px;">Anterior</button></a>
-<a href="9.php"><button style="float-right:30px;">Siguiente</button></a>
-<a href="inicio.php"><button style="float-right:30px;">capitulos</button></a>
-
+<a href="4.php"><button style="float-right:30px;">anterior</button></a>
+<a href="inicio.php"><button style="float-right:30px;">Inicio</button></a>
+<a href="6.php"><button style="float-right:30px;">Siguiente</button></a>
 <br>
 </div>
 
@@ -119,13 +118,13 @@
             <div class="footer-copyright full-reset all-tittles">Comentario.</div>
         </footer>
       
-        
+        <center>
         
         <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v10.0" nonce="jPdBhHZW"></script>
 
 <div class="fb-comments" data-href="http://localhost/samuel/trabajo/peliculas/inicio.php" data-width="" data-numposts="100"></div>
-
+</center>
     </div>
 </body>
 </html>
