@@ -1,8 +1,9 @@
 .estado{
     width: 120px;
     height: 40px;
+    cursor: pointer;
     border-radius: 5px;
-    background-color: blue;
+    background: #EA3A29;
     position: absolute;
     left: 60px;
 }

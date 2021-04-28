@@ -27,6 +27,7 @@ header{
     left: 0;
     background: rgba(0,0,0,0.3);
     display: none;
+    color: black;
 }
 
 .content-table{
@@ -54,7 +55,9 @@ tbody tr td a:hover{
     background: rgba(0,0,0,0.3);
 }
 
-#table_length, #table_filter, #table_info, #table_paginate{
+#table_length, #table_filter, #table_info, #table_paginate{/* agregacion de los id de la libreria 
+    para eliminar buscador interno dentro del buscador
+    */
     display: none;
 }
 

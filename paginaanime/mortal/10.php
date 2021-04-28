@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Peliculas</title>
+    <title>Mortal King</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -86,16 +86,9 @@
 
         <div class="container">
             <div class="page-header">
-<<<<<<< HEAD
+
               <h1 class="all-tittles"><center><font size="10" face="Algerian">Mortal capitulo 6</font></center></h1>
-=======
-<<<<<<< HEAD
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">Mortal capitulo 10</font></center></h1>
-=======
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">Morlat capitulo 6</font></center></h1>
->>>>>>> 7bbc84b3e8a2c7fed8e392c3fddd762e7434d6f8
->>>>>>> 85648cf1bddc980fab3f191128104670ceb93600
-            </div>
+
         </div>
         <div class="container-fluid">
             <ul class="nav nav-tabs nav-justified"  style="font-size: 17px;">
@@ -111,7 +104,6 @@
 
 <div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://www.dailymotion.com/embed/video/kxYxTjicfkv9kHvVpgJ?api=postMessage&id=tamamo_player&origin=https%3A%2F%2Fwww.mundodonghua.com&queue-autoplay-next=false&queue-enable=false&sharing-enable=false&ui-logo=false&ui-start-screen-info=false" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 
-<div style="position:relative;height:0;padding-bottom:56.6%"><video src="../../anime/mortal/6.mp4" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 
 <br>
 
