@@ -67,9 +67,10 @@
         </div>
     </div>
     <div class="content-page-container full-reset custom-scroll-containers">
-
+    
     	 <div class="footer-copyright full-reset all-tittles">Mundo anime</div>
-
+         
+   
         <div class="container">
             <div class="page-header">
               <h1 class="all-tittles"><center><font size="10" face="Algerian">Blood-C</font></center></h1>
