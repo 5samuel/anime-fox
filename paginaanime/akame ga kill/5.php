@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+<<<<<<< HEAD
     <title>Akame ga Kill</title>
+=======
+    <title>Akame ga kill</title>
+>>>>>>> 3a564ed73654da618442b5610e85934a602feb5e
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -75,7 +79,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">Blood-C Episodio 5</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">Akamega kill Episodio 5</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -90,7 +94,7 @@
 
 <div class="contenedor" style="height:200%;">
 
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#ZEpSbzdnT0N3N2ZxbE1zRlVoZnhqOG5ucU1ZSDkwQmxiQWNXOVowZEpuUDBVSzJPOWN1N1dBZXJNc1lsNmJ1bldCVVhYQWdvVlBJMk5LenErNVlwcCtFQ3dhMzNNWlpUUGMxVE5jUXNTeTg9" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://embed.vodstream.xyz?k=35764363be37763cb4c85dce13fa7b90&li=5725&tham=1620232186&lt=hydrax&qlt=720p&spq=p&prv=dXBsb2Fkcy90aHVtYnMvMTcwMzIxXzA2Mzc0Ny9ha2FtZS1nYS1raWxsLTIwMTQtZXBpc29kaW8tMDA1LmpwZzt1cGxvYWRzL3RodW1icy8xNzAzMjFfMDYzNzQ3L2FrYW1lLWdhLWtpbGwtMjAxNC1lcGlzb2Rpby0wMDVfbW9iaWxlLmpwZw%3D%3D&key=cc5d98ef21a1c0e3bb99ab34df2a632a&ua=de1bb6a25fc8916d6c022705e7b454c4cde7d71777a4629cd79bde6936854bfd40cb6d533e02290598f33f27444db9b32993924213794728d84afc8e42270d3d928c5e5092bfc31eeecb96d017e901ecb9b44a830905fb59d455a5e93970a14ec0c6814b8b8e971074833b0585be93094b497cc8bcfc5b5b3f5802dc9467fa51&h=1620232186" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 <br>
 
 </div>

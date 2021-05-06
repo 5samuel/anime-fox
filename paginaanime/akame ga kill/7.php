@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Blood C</title>
+    <title>Akame ga kill</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -86,7 +86,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">Blood-C Episodio 7</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">Akame ga kill Episodio 7</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -101,7 +101,7 @@
 
 <div class="contenedor" style="height:200%;">
 
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#dFRWcnhjZEsxSHQva0oyWjRhbnU2aHdObklDaDFud0ZMM2plRzJNM1M3ZjloT2ZTajBiS2RHUkxzWlBMbFc1dTJGZXlWa2NEWmNkOVRHTEZNNkpSYVA1aXA5ak1NQ2p6T3paRHo3NXBPVE09" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://embed.vodstream.xyz?k=3f46fdf0a3bfbae197dcb6f356531da3&li=0&tham=1620309312&lt=os&qlt=720p&spq=p&prv=dXBsb2Fkcy90aHVtYnMvMTcwMzIyXzA2NTcwMy9ha2FtZS1nYS1raWxsLTIwMTQtZXNwYW9sLWVzcGFhLWVwaXNvZGlvLTAwNy5qcGc7dXBsb2Fkcy90aHVtYnMvMTcwMzIyXzA2NTcwMy9ha2FtZS1nYS1raWxsLTIwMTQtZXNwYW9sLWVzcGFhLWVwaXNvZGlvLTAwN19tb2JpbGUuanBn&key=64c9f64af9fbdd3b6f167c5e5a2272a4&ua=de1bb6a25fc8916d6c022705e7b454c4cde7d71777a4629cd79bde6936854bfd40cb6d533e02290598f33f27444db9b32993924213794728d84afc8e42270d3d928c5e5092bfc31eeecb96d017e901ecb9b44a830905fb59d455a5e93970a14ec0c6814b8b8e971074833b0585be93094b497cc8bcfc5b5b3f5802dc9467fa51&h=1620309312" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 <br>
 
 </div>
