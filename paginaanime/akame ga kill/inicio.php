@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<title>Blood-C</title>
+<title>Akame ga kill</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -38,7 +38,7 @@
                 <figure>
                     <img src="../../img/logo.jpg" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
                 </figure>
-                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">One Punch Man</font></p>
+                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">Akame ga kill</font></p>
             </div>
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
@@ -46,7 +46,7 @@
                     <li>
                         <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Animes <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
                         <ul class="list-unstyled">
-                           <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; One Punch Man</a></li>
+                           <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Akame ga kill</a></li>
                             <li><a href=""><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Ciencia ficción </a></li>
                             <li><a href="esperacomedia.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Comedia </a></li>
                             <li><a href="esperafantasía.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Fantasía</a></li>
@@ -67,7 +67,7 @@
     </div>
     <div class="content-page-container full-reset custom-scroll-containers">
 
-    	 <div class="footer-copyright full-reset all-tittles">Mundo anime</div>
+    	 <div class="footer-copyright full-reset all-tittles">Anime fox</div>
 
         <div class="container">
             <div class="page-header">
@@ -117,14 +117,14 @@ width:80% ;
     ">
 <center>
 <a href="1.php" style="color:black;">
-<img src="https://cdn.animeflv.net/screenshots/1428/1/th_3.jpg" class="imgc" ><h3 style="color:black;">Amake ga kill </h3>
+<img src="../../img/akamega.jpg" class="imgc" ><h3 style="color:black;">Amake ga kill </h3>
 capitulo 1
 </a>
 </center>
 <br>
 <center>
 <a href="2.php" style="color:black;">
-<img src="../../img/bc/2.png" class="imgc"><h3>Amake ga kill </h3>
+<img src="../../img/akamega.jpg" class="imgc"><h3>Amake ga kill </h3>
 capitulo 2
 </a>
 </center>
@@ -132,71 +132,92 @@ capitulo 2
 <br>
 <center>
 <a href="3.php" style="color:black;">
-<img src="../../img/bc/3.png" class="imgc"><h3>Akame ga kill </h3>
+<img src="../../img/akamega.jpg" class="imgc"><h3>Akame ga kill </h3>
 capitulo 3
 </a>
 </center>
 <br>
 <center>
 <a href="4.php" style="color:black;">
-<img src="../../img/bc/4.png" class="imgc"><h3>Akame ga kill </h3>
+<img src="../../img/akamega.jpg" class="imgc"><h3>Akame ga kill </h3>
 capitulo 4
 </a>
 </center>
 <br>
 <center>
 <a href="5.php" style="color:black;">
-<img src="../../img/bc/5.png" class="imgc"><h3>Akame ga kill </h3>
+<img src="../../img/akamega.jpg" class="imgc"><h3>Akame ga kill </h3>
 capitulo 5
 </a>
 </center>
 <br>
 <center>
 <a href="6.php" style="color:black;">
-<img src="../../img/bc/6.png" class="imgc"><h3>Akame ga kill </h3>
+<img src="../../img/akamega.jpg" class="imgc"><h3>Akame ga kill </h3>
 capitulo 6
 </a>
 </center>
 <br>
 <center>
 <a href="7.php" style="color:black;">
-<img src="../../img/bc/7.png" class="imgc"><h3>Akame ga kill </h3>
+<img src="../../img/akamega.jpg" class="imgc"><h3>Akame ga kill </h3>
 capitulo 7
 </a>
 </center>
 <br>
 <center>
 <a href="8.php" style="color:black;">
-<img src="../../img/bc/8.png" class="imgc"><h3>Akame ga kill </h3>
+<img src="../../img/akamega.jpg" class="imgc"><h3>Akame ga kill </h3>
 capitulo 8
 </a>
 </center>
 <br>
 <center>
 <a href="9.php" style="color:black;">
-<img src="../../img/bc/9.png" class="imgc"><h3>Blood-C </h3>
+<img src="../../img/akamega.jpg" class="imgc"><h3>Akame ga kill </h3>
 capitulo 9
 </a>
 </center>
 <br>
 <center>
 <a href="10.php" style="color:black;">
-<img src="../../img/bc/10.png" class="imgc"><h3>Akame ga kill </h3>
+<img src="../../img/akamega.jpg" class="imgc"><h3>Akame ga kill </h3>
 capitulo 10
 </a>
 </center>
 <br>
 <center>
 <a href="11.php" style="color:black;">
-<img src="../../img/bc/11.png" class="imgc"><h3>Blood-C </h3>
+<img src="../../img/akamega.jpg" class="imgc"><h3>Akame ga kill</h3>
 capitulo 11
 </a>
 </center>
 <br>
 <center>
 <a href="12.php" style="color:black;">
-<img src="../../img/bc/12.png" class="imgc"><h3>Blood-C </h3>
+<img src="../../img/akamega.jpg" class="imgc"><h3>Akame ga kill </h3>
 capitulo 12
+</a>
+</center>
+<br>
+<center>
+<a href="12.php" style="color:black;">
+<img src="../../img/akamega.jpg" class="imgc"><h3>Akame ga kill </h3>
+capitulo 13
+</a>
+</center>
+<br>
+<center>
+<a href="12.php" style="color:black;">
+<img src="../../img/akamega.jpg" class="imgc"><h3>Akame ga kill </h3>
+capitulo 14
+</a>
+</center>
+<br>
+<center>
+<a href="12.php" style="color:black;">
+<img src="../../img/akamega.jpg" class="imgc"><h3>Akame ga kill </h3>
+capitulo 15
 </a>
 </center>
 

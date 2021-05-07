@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Blood C</title>
+    <title>Akame ga kill</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -59,20 +59,9 @@
                 <ul class="list-unstyled">
                     <li><a href="../../inicio.php"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
                     <li>
-                        <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Peliculas <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
-                        <ul class="list-unstyled">
-                            <li><a href="esperaacción.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Acción</a></li>
-                            <li><a href="esperacienciaficción.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Ciencia ficción </a></li>
-                            <li><a href="esperacomedia.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Comedia </a></li>
-                            <li><a href="esperafantasía.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Fantasía</a></li>
-                            <li><a href="esperamelodrama.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Melodrama</a></li>
-                            <li><a href="esperamusical.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Musical</a></li>
-                            <li><a href="esperaromance.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Romance</a></li>
-                            <li><a href="esperasuspense.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Suspense</a></li>
-                            <li><a href="esperaterror.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Terror </a></li>
-                        </ul>
+                        
                     </li>
-                    	 <li><a href="espera.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Nuevas Peliculas</a></li>
+                    	 <li><a href="espera.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  buscador</a></li>
 
                              <li><a href="desconectar.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Cerrar</a></li>
                     </li>
@@ -86,7 +75,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">Blood-C Episodio 6</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">Akame ga kill Episodio 6</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -101,7 +90,7 @@
 
 <div class="contenedor" style="height:200%;">
 
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#U0grVW82dS83ejZGR2J6V1pNUkxROHNSZjlBZzNBRXpkOUNxeUFZVHVGTzRsWmpCcDZ4VDBqMHJmcFR3RXZ1WmVpZ1RuTTVacVBFT0dub3poa1l3MkxuK0hJbzNPSWlldDZsTkRqTmpXUDQ9" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://embed.vodstream.xyz?k=17aa2469ef59074d5013dc71644e2642&li=0&tham=1620309131&lt=os&qlt=720p&spq=p&prv=dXBsb2Fkcy90aHVtYnMvMTcwMzIyXzA2NTcwNC9ha2FtZS1nYS1raWxsLTIwMTQtZXNwYW9sLWVzcGFhLWVwaXNvZGlvLTAwNi5qcGc7dXBsb2Fkcy90aHVtYnMvMTcwMzIyXzA2NTcwNC9ha2FtZS1nYS1raWxsLTIwMTQtZXNwYW9sLWVzcGFhLWVwaXNvZGlvLTAwNl9tb2JpbGUuanBn&key=b2ef2ff5c390c8ba3c95c8fcbf58989b&ua=de1bb6a25fc8916d6c022705e7b454c4cde7d71777a4629cd79bde6936854bfd40cb6d533e02290598f33f27444db9b32993924213794728d84afc8e42270d3d928c5e5092bfc31eeecb96d017e901ecb9b44a830905fb59d455a5e93970a14ec0c6814b8b8e971074833b0585be93094b497cc8bcfc5b5b3f5802dc9467fa51&h=1620309131" controls style="position:absolute;width:97%;height:100%;left:0" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 <br>
 
 </div>
