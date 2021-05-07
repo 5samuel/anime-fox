@@ -97,7 +97,7 @@
 <div class="contenedor" style="height:200%;">
 <!--Aqui dentro va el video y los botones-->
 
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="" controls style="position:absolute;width:97%;height:100%;left:0; border-radius: 10px;" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#THBIVU5neG4xMmJEWE9nUTM1MEhSNnBhSTF2Z0ZTY1o1VGU3amFsanUwNG1HL1E3VFM0RmFGUXYwcllGMXlYVUJJTnBWTVJNUGpzbVo3UWZQa2VROFhlb2picW1aQU5WeUcwK0xvZWFQU0E9https://streamium.xyz/gocdn.html#THBIVU5neG4xMmJEWE9nUTM1MEhSNnBhSTF2Z0ZTY1o1VGU3amFsanUwNG1HL1E3VFM0RmFGUXYwcllGMXlYVUJJTnBWTVJNUGpzbVo3UWZQa2VROFhlb2picW1aQU5WeUcwK0xvZWFQU0E9" controls style="position:absolute;width:97%;height:100%;left:0; border-radius: 10px;" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 <br>
 </div>
 <!-- Botones -->
