@@ -45,10 +45,12 @@ tbody tr td a{
     text-decoration: none;
 }
 input{
+    position: absolute;
+    left: 300px;
     padding: 9px 10px 9px 32px;
     outline: none;
     font-size: 18px;
-    border-radius: 25px;
+    border-radius: 15px;
     color: #444;
     border: 3px solid #a50559;
     background: #fff url("search-icono.pnh")
