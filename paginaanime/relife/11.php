@@ -97,14 +97,14 @@
 <div class="contenedor" style="height:200%;">
 <!--Aqui dentro va el video y los botones-->
 
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="" controls style="position:absolute;width:97%;height:100%;left:0; border-radius: 10px;" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#VEhNTFVhQnc0UDduaG5iem5MRUFhTnlZQUwyRU9kSTJ4aDZOaFpXaEcwVHdjdkZiRFYxN1lLNGFMVWF3L1AxSzh6cFgvRDVDV0w5MjRxTUcybWhicU51SDUvejZDQUtKeWh1OXpEMnFvekk9" controls style="position:absolute;width:97%;height:100%;left:0; border-radius: 10px;" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 <br>
 </div>
 <!-- Botones -->
 <br>
 <a href="10.php"><button style="float-right:30px;">Anterior</button></a>
-<a href="12.php"><button style="float-right:30px;">Siguiente</button></a>
 <a href="inicio.php"><button style="float-right:30px;">capitulos</button></a>
+<a href="12.php"><button style="float-right:30px;">Siguiente</button></a>
 
 <br>
 </div>
