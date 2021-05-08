@@ -62,6 +62,7 @@ body{
     visibility: hidden;
 }
 .desplegar:hover .mega-menu{
+    
     opacity: 1;
     visibility: visible;
     top: 70px;
@@ -73,6 +74,7 @@ body{
 }
 .categorias{
     display: flex;
+   
 }
 .lista{
     width: 100%;
@@ -95,13 +97,22 @@ body{
 main{
     background-color: white;
     box-shadow: 0px 0px 10px black;
-    width: 50%;
+    width: 60%;
 }
 .izquierda{
     position: relative;
     left: 20px;
+    
     background-color: white;
     width: 150px;
-    height: 50px;
+    height: 200px;
+    box-shadow: 0px 0px 5px black;
 
+}
+.redes{
+    position: absolute;
+    left: 700px;
+    top: 10px;
+    width: 50px;
+    cursor: pointer;
 }
