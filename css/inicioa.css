@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.img{
+    width: 200px;
+    height: 390px;
+    position: absolute;
+    left: 200px;
+    padding: 50px 10px;
+   
+    box-shadow: 0px 0px 5px aqua; 
+}
+h2{
+    position: relative;
+    left: 430px;
+    top: 30px;
+}
+.sip{
+    color: black;
+    background-color: whitesmoke;
+    width: 45%;
+    height: 80px;
+    margin: 5px;
+    padding: 20px 20px;
+    position: relative;
+    left: 490px;
+    top: 40px;
+    box-shadow: 0px 0px 10px black;
+   
+}
+
+/*contenedor de los capitulos*/
+.contenedor{
+    position: relative;
+    top: 90px;
+    width:700px;
+    background: white ;
+    color: white;
+    padding: 20px;
+    margin: 5%;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px black;
+}
+.imgc{
+    position: relative;
+    right: 180px;
+    width: 80px;
+    top: 50px;
+    border-radius: 5px;
+}
+.contenedor>h3{
+    position: relative;
+    top: -10px;
+}

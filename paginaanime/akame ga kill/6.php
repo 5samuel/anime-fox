@@ -57,16 +57,28 @@
             </div>
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
-                    <li><a href="../../inicio.php"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
+                    <li><a href="../../inicio.html"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
                     <li>
-                        
+                        <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Animes <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
+                        <ul class="list-unstyled">
+                           <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Akame ga kill</a></li>
+                            <li><a href=""><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Ciencia ficción </a></li>
+                            <li><a href="esperacomedia.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Comedia </a></li>
+                            <li><a href="esperafantasía.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Fantasía</a></li>
+                            <li><a href="esperamelodrama.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Melodrama</a></li>
+                            <li><a href="esperamusical.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Musical</a></li>
+                            <li><a href="esperaromance.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Romance</a></li>
+                            <li><a href="esperasuspense.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Suspense</a></li>
+                            <li><a href="esperaterror.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Terror </a></li>
+                        </ul>
                     </li>
-                    	 <li><a href="espera.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  buscador</a></li>
+                    	
 
-                             <li><a href="desconectar.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Cerrar</a></li>
+                    	 <li><a href="../../buscador/index.html"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Buscardor</a></li>
                     </li>
                 </ul>
             </div>
+        </div>
         </div>
     </div>
     <div class="content-page-container full-reset custom-scroll-containers">
