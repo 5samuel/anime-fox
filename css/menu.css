@@ -119,3 +119,9 @@ main{
     width: 50px;
     cursor: pointer;
 }
+.lista{
+    list-style-type:none;
+}
+.izquirda>a{
+    text-decoration: none;
+}
