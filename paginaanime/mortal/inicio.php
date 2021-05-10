@@ -46,21 +46,20 @@
                     <li>
                         <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Animes <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
                         <ul class="list-unstyled">
-                        <li><a href="../../paginaanime/demon-king-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp;<i> Demon King academy</i></a></li>
-                            <li><a href="../../paginaanime/mortal/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>Mortal</i> </a></li>
-                            <li><a href="../../paginaanime/horimiya/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>Horimiya</i> </a></li>
-                            <li><a href="../../paginaanime/smarfon/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>Isekai smartphone</i></a></li>
-                            <li><a href="../../paginaanime/no-game-no-life/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i> No game no life</i></a></li>
-                            <li><a href="../../paginaanime/tatoeba/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i> tatoeba last dungeon</i></a></li>
-                            <li><a href="../../paginaanime/onepunchman/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>One Punch</i></a></li>
-                            <li><a href="../../paginaanime/onepunchman s2/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>One Punch Man 2nd Temporada</i></a></li>
-                         ##   <li><a href="../../paginaanime/snk1/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; <i>Shingeki No Kyojin</i></a></li>
-                         <!--Espacios disponibles-->
-                          </ul>
+                           <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Akame ga kill</a></li>
+                            <li><a href=""><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Ciencia ficción </a></li>
+                            <li><a href="esperacomedia.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Comedia </a></li>
+                            <li><a href="esperafantasía.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Fantasía</a></li>
+                            <li><a href="esperamelodrama.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Melodrama</a></li>
+                            <li><a href="esperamusical.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Musical</a></li>
+                            <li><a href="esperaromance.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Romance</a></li>
+                            <li><a href="esperasuspense.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Suspense</a></li>
+                            <li><a href="esperaterror.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Terror </a></li>
+                        </ul>
                     </li>
-                    	 <li><a href="espera.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Nuevas Peliculas</a></li>
+                    	
 
-                    	 <li><a href="desconectar.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Cerrar</a></li>
+                    	 <li><a href="../../buscador/index.html"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Buscardor</a></li>
                     </li>
                 </ul>
             </div>
