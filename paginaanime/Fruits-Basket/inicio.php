@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<title>Peliculas</title>
+    <!--titulo del anime en la pestaña-->
+<title>Fruits-Basket</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -36,9 +37,9 @@
         	<br>
             <div class="full-reset" style="background-color:#2B3D51; padding: 10px 0; color:#fff;">
                 <figure>
-                    <img src="../../assets/img/logoo.png" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
+                    <img src="../../img/logo.jpg" alt="Biblioteca" class="img-responsive center-box" style="width:30%;">
                 </figure>
-                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">Anime fox</font></p>
+                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">FLCL</font></p>
             </div>
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
@@ -46,10 +47,10 @@
                     <li>
                         <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Animes <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
                         <ul class="list-unstyled">
-                           <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Akame ga kill</a></li>
-                            <li><a href=""><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Ciencia ficción </a></li>
-                            <li><a href="esperacomedia.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Comedia </a></li>
-                            <li><a href="esperafantasía.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Fantasía</a></li>
+                        <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Demon King academy</a></li>
+                            <li><a href="../mortal/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Mortal </a></li>
+                            <li><a href="../smarfon/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Isikai </a></li>
+                            <li><a href="../Horimiya/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Horimoya</a></li>
                             <li><a href="esperamelodrama.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Melodrama</a></li>
                             <li><a href="esperamusical.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Musical</a></li>
                             <li><a href="esperaromance.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Romance</a></li>
@@ -57,9 +58,9 @@
                             <li><a href="esperaterror.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Terror </a></li>
                         </ul>
                     </li>
-                    	
+                    	 <li><a href="espera.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Nuevas Peliculas</a></li>
 
-                    	 <li><a href="../../buscador/index.html"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Buscardor</a></li>
+                    	 <li><a href="desconectar.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Cerrar</a></li>
                     </li>
                 </ul>
             </div>
@@ -67,11 +68,13 @@
     </div>
     <div class="content-page-container full-reset custom-scroll-containers">
 
-    	 <div class="footer-copyright full-reset all-tittles">Mundo anime</div>
+<!-- Nombre del anime en pantalla-->
+
+    	 <div class="footer-copyright full-reset all-tittles">Anime fox</div>
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">No game no life</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian">Fruits Basket</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -82,22 +85,20 @@
         <div class="container-fluid"  style="margin: 50px 0;">
             <div class="row">
                 <div class="col-xs-12 col-sm-4 col-md-3" style="width:30%; border-radius: 25px;">
-                    <img src="../../img/5.jpg" alt="user" class="img-responsive center-box" style="max-width: 200px;">
+                    <img src="../../img/Fruits-Basket.png" alt="user" class="img-responsive center-box" style="max-width: 200px;">
                     <br>
-                    <div class="estado"><center><h4>Finalizado</h4></center></div> <div class="imagen"><img src="../../img/megusta.png" alt=""></div>
+                    <div class="estado"><center><h4>Emision</h4></center></div> <div class="imagen"><img src="../../img/megusta.png" alt=""></div>
                 </div>
                 <div class="sip"><center> <h2 >sipnosis</h2></div></center>
                 <div class="col-xs-12 col-sm-8 col-md-8 text-justify lead">
-                  
-                    <p>Serie de TV (2014). 12 episodios. No Game, No Life se centra en Sora y Shiro, unos hermanos cuya reputación de NEETs hikikomoris y gamers han hecho que comiencen a extenderse leyendas urbanas suyas por todo internet.
 
-Estos dos gamers consideran que el mundo real no es más que “un juego de mierda”. Un día, un chico llamado “Dios” les invoca en un mundo alternativo. En este mundo, Dios ha prohibido la guerra y declarado que todo se decide en base a los juegos, incluso las fronteras de los países. La humanidad vive ahora en una ciudad por culpa del resto de razas. ¿Se convertirán Sora y Shiro, hermano y hermana, en los salvadores de este mundo alternativo? (FILMAFFINITY)
-<center>
-<h3>Título original</h3>
-<h3>No Game, No Life (TV Series)</h3>
-<h3>Año:2014</h3>
-<h3>Duración: 25 min.</h3>
-<h3>País: Japón Japón</h3>
+                  <!--sipnosis del Anime donde dice aqui-->
+                    <p>Mars Red es una serie de anime producida por Signal.MD, basada en una obra de teatro escrita por Bun'ō Fujisawa. Su estreno está programado para 2021. <center>
+                        <!-- Datos del Anime-->
+                        Última emisión: programado
+<h3>Episodios: 13</h3>
+<h3>Director: Kouhei Hatano</h3>
+<h3>Editorial: Mag Garden</h3>
 </center>
 
                     </p>
@@ -113,90 +114,54 @@ width:80% ;
     margin: 5%;
     border-radius: 20px;
     ">
+    <!--Capitulos, Nombres y portadas-->
+
+    <!-- ruta⚓ (../../img/carpetadelanime/name.jpg,png o Gif )🚨 sustituir correctamente
+              los campos y crear carpetas con las iniciales del anime-->
 <center>
 <a href="1.php" style="color:black;">
-<h3><img src="../../img/.jpg" class="imgc">No game no life</h3>
-capituli 1
+<h3><img src="../../img/FCLC/1.jpg" class="imgc">Fruits-Basket</h3>
+capitulo 1
 </a>
 </center>
 <br>
 <center>
 <a href="2.php" style="color:black;">
-<h3><img src="../../img/.jpg" class="imgc">No game no life</h3>
+<h3><img src="../../img/FCLC/2.jpg" class="imgc">Fruits-Basket</h3>
 capitulo 2
 </a>
 </center>
+
 <br>
 <center>
 <a href="3.php" style="color:black;">
-<h3><img src="../../img/.jpg" class="imgc">No game no life</h3>
+<h3><img src="../../img/FCLC/3.png" class="imgc">Fruits-Basket</h3>
 capitulo 3
 </a>
 </center>
 <br>
 <center>
 <a href="4.php" style="color:black;">
-<h3><img src="../../img/.jpg" class="imgc">No game no life</h3>
+<h3><img src="../../img/FCLC/4.jpg" class="imgc">Fruits-Basket</h3>
 capitulo 4
 </a>
 </center>
 <br>
 <center>
 <a href="5.php" style="color:black;">
-<h3><img src="../../img/.jpg" class="imgc">No game no life</h3>
+<h3><img src="../../img/FCLC/5.jpg" class="imgc">Fruits-Basket</h3>
 capitulo 5
 </a>
 </center>
 <br>
 <center>
 <a href="6.php" style="color:black;">
-<h3><img src="../../img/.jpg" class="imgc">No game no life</h3>
+<h3><img src="../../img/FCLC/6.jpg" class="imgc">Fruits-Basket</h3>
 capitulo 6
 </a>
 </center>
 <br>
-<center>
-<a href="7.php" style="color:black;">
-<h3><img src="../../img/.jpg" class="imgc">No game no life</h3>
-capitulo 7
-</a>
-</center>
-<br>
-<center>
-<a href="8.php" style="color:black;">
-<h3><img src="../../img/.jpg" class="imgc">No game no life</h3>
-capitulo 8
-</a>
-</center>
-<br>
-<center>
-<a href="9.php" style="color:black;">
-<h3><img src="../../img/.jpg" class="imgc">No game no life</h3>
-capitulo 9
-</a>
-</center>
-<br>
-<center>
-<a href="10.php" style="color:black;">
-<h3><img src="../../img/.jpg" class="imgc">No game no life</h3>
-capitulo 10
-</a>
-</center>
-<br>
-<center>
-<a href="11.php" style="color:black;">
-<h3><img src="../../img/.jpg" class="imgc">No game no life</h3>
-capitulo 11
-</a>
-</center>
-<br>
-<center>
-<a href="12.php" style="color:black;">
-<h3><img src="../../img/.jpg" class="imgc">No game no life</h3>
-capitulo 12
-</a>
-</center>
-<br>
+
 </div>
 
 
@@ -204,7 +169,7 @@ capitulo 12
         </div>
         <footer class="footer full-reset">
 
-            <div class="footer-copyright full-reset all-tittles">Mundo anime</div>
+            <div class="footer-copyright full-reset all-tittFLCL</div>
         </footer>
     </div>
 </body>
