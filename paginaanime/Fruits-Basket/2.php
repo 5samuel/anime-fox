@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Peliculas</title>
+    <!--Aqui va el titulo de la pestaña colocar nombre del anime-->
+    <title>fruits Basket</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -53,28 +54,20 @@
                 <figure>
                     <img src="assets/img/logoo.png" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
                 </figure>
-                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">anime fox</font></p>
+                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">Peliculas</font></p>
             </div>
+
+            <!--Aqui va el menu todavia no se ha terminado asi que no preocuparce por el momento-->
+
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
-                    <li><a href="../../inicio.html"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
+                    <li><a href="../../inicio.php"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
                     <li>
-                        <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Animes <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
-                        <ul class="list-unstyled">
-                           <li><a href="../demon-King-cademy/inicio.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Akame ga kill</a></li>
-                            <li><a href=""><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Ciencia ficción </a></li>
-                            <li><a href="esperacomedia.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Comedia </a></li>
-                            <li><a href="esperafantasía.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Fantasía</a></li>
-                            <li><a href="esperamelodrama.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Melodrama</a></li>
-                            <li><a href="esperamusical.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Musical</a></li>
-                            <li><a href="esperaromance.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Romance</a></li>
-                            <li><a href="esperasuspense.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Suspense</a></li>
-                            <li><a href="esperaterror.php"><i class="zmdi zmdi-movie-alt"></i>&nbsp;&nbsp; Terror </a></li>
-                        </ul>
-                    </li>
-                    	
+                        <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Peliculas <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
+                        
+                    	 <li><a href="espera.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Nuevas Peliculas</a></li>
 
-                    	 <li><a href="../../buscador/index.html"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Buscardor</a></li>
+                             <li><a href="desconectar.php"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp;  Cerrar</a></li>
                     </li>
                 </ul>
             </div>
@@ -82,11 +75,13 @@
     </div>
     <div class="content-page-container full-reset custom-scroll-containers">
 
-    	 <div class="footer-copyright full-reset all-tittles">Mundo del anime</div>
+        <!-- aqui va el titulo sipnosis y demas datos-->
+
+    	 <div class="footer-copyright full-reset all-tittles">Anime fox</div>
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian">No game no life capitulo 12</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian"> Episodio 2</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -100,15 +95,16 @@
 <br>
 
 <div class="contenedor" style="height:200%;">
+<!--Aqui dentro va el video y los botones-->
 
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#VUtJUmpGbGN4M0dnZFU5dlBpdjQ3b2tOcy9JSUc0NUhBZmU3UkxiWm0xYXkySnZ5aW0yTDdoazVWaUMySEoxNCs3YXdqV1N2bVlVNTc4VVVqWVZJbWtGazBaelpYZWVmYmRoMDRhOEFlcDgrdUtMVmJ5YndSM0NaR3FJVURDVHo" controls style="position:absolute;width:97%;height:100%;left:0; border-radius: 10px;" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#QWdFRXd5Mkh4SUNmSEluMC9seXp3MUVOaTlwajRQdXoxNHpWbWd0d01iM0d5UlA4eUxITUpmZ1B6RDBEak5ZNjhlRDhxK3QwbkozcEg4N1QrcFZJNDJHdEhJWnJnVGdUenVQZ3IweTlZTzVjY1BHZzVqYWFBck5yM3pPN25DRjU=" controls style="position:absolute;width:97%;height:100%;left:0; border-radius: 10px;" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 <br>
-
 </div>
+<!-- Botones -->
 <br>
-<a href="11.php"><button style="float-right:30px;">Anterior</button></a>
-
+<a href="1.php"><button style="float-right:30px;">Anterior</button></a>
 <a href="inicio.php"><button style="float-right:30px;">capitulos</button></a>
+<a href="3.php"><button style="float-right:30px;">Siguiente</button></a>
 
 <br>
 </div>
