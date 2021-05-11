@@ -62,7 +62,6 @@ body{
     visibility: hidden;
 }
 .desplegar:hover .mega-menu{
-    
     opacity: 1;
     visibility: visible;
     top: 70px;
@@ -74,7 +73,6 @@ body{
 }
 .categorias{
     display: flex;
-   
 }
 .lista{
     width: 100%;
@@ -119,9 +117,4 @@ main{
     width: 50px;
     cursor: pointer;
 }
-.lista{
-    list-style-type:none;
-}
-.izquirda>a{
-    text-decoration: none;
-}
+
