@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../img/fondosnk.png);   
+    background-size: cover 100%;
+    background-position: center;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+}
