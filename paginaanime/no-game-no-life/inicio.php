@@ -38,7 +38,7 @@
                 <figure>
                     <img src="../../assets/img/logoo.png" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
                 </figure>
-                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">the daily life of the immortal king</font></p>
+                <p class="text-center" style="padding-top: 15px;"><font size="4" face="Algerian">Anime fox</font></p>
             </div>
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
