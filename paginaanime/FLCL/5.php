@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <!--Aqui va el titulo de la pestaña colocar nombre del anime-->
-    <title>Titulo</title>
+    <title>FLCL</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -81,7 +81,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian"> capitulo y cual es</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian"> Episodio 5</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">

@@ -43,7 +43,7 @@
             </div>
             <div class="full-reset nav-lateral-list-menu">
                 <ul class="list-unstyled">
-                    <li><a href="http://localhost/samuel/trabajo/peliculas/inicio.html"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
+                    <li><a href="../../inicio.html"><i class="zmdi zmdi-home zmdi-hc-fw"></i>&nbsp;&nbsp; Inicio</a></li>
                     <li>
                         <div class="dropdown-menu-button"><i class="zmdi zmdi-movie"></i>&nbsp;&nbsp; Animes <i class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
                         <ul class="list-unstyled">
@@ -121,14 +121,14 @@ width:80% ;
               los campos y crear carpetas con las iniciales del anime-->
 <center>
 <a href="1.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">Nombre del anime</h3>
-capituli 1
+<h3><img src="../../img/FCLC/1.jpg" class="imgc">FLCL</h3>
+capitulo 1
 </a>
 </center>
 <br>
 <center>
 <a href="2.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">Nombre del anime</h3>
+<h3><img src="../../img/FCLC/2.jpg" class="imgc">FLCL</h3>
 capitulo 2
 </a>
 </center>
@@ -136,28 +136,28 @@ capitulo 2
 <br>
 <center>
 <a href="3.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">Nombre del anime</h3>
+<h3><img src="../../img/FCLC/3.png" class="imgc">FLCL</h3>
 capitulo 3
 </a>
 </center>
 <br>
 <center>
 <a href="4.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">Nombre del anime</h3>
+<h3><img src="../../img/FCLC/4.jpg" class="imgc">FLCL</h3>
 capitulo 4
 </a>
 </center>
 <br>
 <center>
 <a href="5.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">Nombre del anime</h3>
+<h3><img src="../../img/FCLC/5.jpg" class="imgc">FLCL</h3>
 capitulo 5
 </a>
 </center>
 <br>
 <center>
 <a href="6.php" style="color:black;">
-<h3><img src="../../img/carpetadelanime/name.jpg" class="imgc">Nombre del anime</h3>
+<h3><img src="../../img/FCLC/6.jpg" class="imgc">FLCL</h3>
 capitulo 6
 </a>
 </center>
@@ -170,7 +170,7 @@ capitulo 6
         </div>
         <footer class="footer full-reset">
 
-            <div class="footer-copyright full-reset all-tittles">Mundo anime</div>
+            <div class="footer-copyright full-reset all-tittFLCL</div>
         </footer>
     </div>
 </body>

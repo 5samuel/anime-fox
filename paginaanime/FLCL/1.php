@@ -81,7 +81,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian"> capitulo y cual es</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian"> Episodio 1</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">

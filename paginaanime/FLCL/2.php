@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <!--Aqui va el titulo de la pestaña colocar nombre del anime-->
-    <title>Titulo</title>
+    <title>FLCL</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/logoo.png" />
@@ -81,7 +81,7 @@
 
         <div class="container">
             <div class="page-header">
-              <h1 class="all-tittles"><center><font size="10" face="Algerian"> capitulo y cual es</font></center></h1>
+              <h1 class="all-tittles"><center><font size="10" face="Algerian"> Episodio 2</font></center></h1>
             </div>
         </div>
         <div class="container-fluid">
@@ -97,7 +97,7 @@
 <div class="contenedor" style="height:200%;">
 <!--Aqui dentro va el video y los botones-->
 
-<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="" controls style="position:absolute;width:97%;height:100%;left:0; border-radius: 10px;" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
+<div style="position:relative;height:0;padding-bottom:56.6%"><iframe src="https://streamium.xyz/gocdn.html#ZkkrNUxZenFEa0JiazhNMHc0MFNhdHpXZUhYL1dtNkxiQzB2MldYN3RTYzd4Y2RxakNXNFhwOE16cUNocG9VRHcxWWswaVB3TE9NZ0pxMHl3QjFvVkZnODJ0b201YmtucXNUWVBMZWhjMzg9" controls style="position:absolute;width:97%;height:100%;left:0; border-radius: 10px;" width="500" height="390" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  </div>
 <br>
 </div>
 <!-- Botones -->
